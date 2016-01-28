@@ -970,8 +970,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 列表。
 *   [Open Source apps](https://github.com/dkhamsing/open-source-ios-apps) 开源 iOS app 列表。
 *   优秀的 Swift 列表
-
-        *   [@matteocrippa](https://github.com/matteocrippa/awesome-swift) - 一个优秀的 Swift 资源合集列表。
+    *   [@matteocrippa](https://github.com/matteocrippa/awesome-swift) - 一个优秀的 Swift 资源合集列表。
     *   [@Wolg](https://github.com/Wolg/awesome-swift) - 一个很棒的 Swift 框架，库和软件的策划列表。
 *   [awesome watchkit apps](https://github.com/sanketfirodiya/sample-watchkit-apps) watchkit app 例程和教程的列表。▲
 *   [iOS Learning Resources](https://github.com/sanketfirodiya/iOS-learning-resources) 一个高质量，频繁更新并且被很好维护的 iOS 教程网站的完整集合。
