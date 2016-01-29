@@ -23,7 +23,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 不过加入前，有几个小要求：
 
 * 英文还不错，能读懂英文并用自己的话复述；
-* 在用 iOS；
+* 有 iOS 开发经验；
 
 如有兴趣，请加 QQ：50872495。加 Q 时请注明「iOS大全」
 
@@ -33,7 +33,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：You
+- 贡献者：[ARIGATO](http://www.jobbole.com/members/lu123321shenzhen)、You
 
 注：名单不分排名，不定期补充更新
 
