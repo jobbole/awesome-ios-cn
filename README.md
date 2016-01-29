@@ -112,7 +112,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [播客（Podcasts）](#podcasts)
 *   [书籍](#books)
 *   [其他优秀的列表](#other-awesome-lists)
-*   [贡献](#contributing)
+*   [资源](#resources)
 
 # <a name="getting-started"></a>入门
 
@@ -978,3 +978,27 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [awesome-ios-chart](https://github.com/sxyx2008/awesome-ios-chart) - 很棒的 iOS 图表库列表。包括了 Objective-C 和 Swift 两种语言。
 *   [awesome-gists](https://github.com/vsouza/awesome-gists#ios) - 很棒的 Gist 列表 (iOS 章节).
 *   [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) - 优秀的 iOS UI/UX 库列表。
+
+
+<h1 id="resources">资源</h1>
+
+<h3 id="influential-books">有影响力的书</h3>
+待补充
+
+*《[Limu：JavaScript 的那些书](http://web.jobbole.com/8087/)》
+
+<h3 id="websites">知名网站</h3>
+*值得关注的 iOS 技术站点。*
+
+<h4>中文站点</h4>
+
+* 伯乐在线 iOS 频道：分享 iOS 和 Swift 开发，应用设计和推广，iOS 相关的行业动态。[官网](http://ios.jobbole.com/)
+
+<h4>英文站点</h4>
+
+待补充
+
+<h3 id="weibo-weixin">微博、微信公众号</h3>
+* iOS大全 微博：[@iOS大全](http://weibo.com/u/5314643524)
+* iOS大全 微信：分享 iOS 应用开发相关行业动态、技术文章、工具资源、App 设计与推广、热门课程、高薪职位和经典书籍等。
+<br><img src="http://ww4.sinaimg.cn/small/63918611gw1epb2c8cw4jj2046046ab2.jpg" width=150 height=150>
