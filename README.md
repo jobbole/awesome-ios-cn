@@ -851,7 +851,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 # <a name="good-websites"></a>好网站
 
-<h4>中文站点</h4>
+<h3>中文站点</h3>
 
 * 伯乐在线 iOS 频道：分享 iOS 和 Swift 开发，应用设计和推广，iOS 相关的行业动态。[官网](http://ios.jobbole.com/)
 
@@ -926,12 +926,12 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [Pixate](http://www.pixate.com/)
 *   [Principle](http://principleformac.com)
 
-<h3 id="weibo-weixin">微博、微信公众号</h3>
+<h1 id="weibo-weixin">微博、微信公众号</h1>
 * iOS大全 微博：[@iOS大全](http://weibo.com/u/5314643524)
 * iOS大全 微信：分享 iOS 应用开发相关行业动态、技术文章、工具资源、App 设计与推广、热门课程、高薪职位和经典书籍等。
 <br><img src="http://ww4.sinaimg.cn/small/63918611gw1epb2c8cw4jj2046046ab2.jpg" width=150 height=150>
 
-# <a name="twitter">Twitter</a>
+# <a name="twitter"></a>Twitter
 
 *   [@objcio](https://twitter.com/objcio)
 *   [@nshipster](https://twitter.com/NSHipster)
