@@ -33,7 +33,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[ARIGATO](http://www.jobbole.com/members/lu123321shenzhen)、You
+- 贡献者：[ARIGATO](http://www.jobbole.com/members/lu123321shenzhen/)、You
 
 注：名单不分排名，不定期补充更新
 
@@ -244,19 +244,19 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### <a name="hud"></a>HUD
 
 *   [MBProgressHUD](https://github.com/jdg/MBProgressHUD) - 用于显示一个半透明的 HUD。当任务在后台线程结束时可以在上边显示一个指示器和／或者标签。
-*   [SVProgressHUD](https://github.com/TransitApp/SVProgressHUD) - 一个为你的 iOS 应用制作的简洁，轻量级的进度指示 HUD。
+*   [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) - 一个为你的 iOS 应用制作的简洁，轻量级的进度指示 HUD。
 *   [ProgressHUD](https://github.com/relatedcode/ProgressHUD) - ProgressHUD 是一个轻量易用的 HUD。
 *   [M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite) - 一个包含了很多 iOS 上用于显示进度信息工具的套装。
 *   [JHProgressHUD](https://github.com/harikrishnant1991/JHProgressHUD) - 一个简单轻量的 Swift 框架，用于在 iOS 应用中显示★
 *   [PKHUD](https://github.com/pkluz/PKHUD) - 用 Swift 重新实现了 Apple 的原生 HUD，支持 iOS 8 以上★
-*   [CozyLoadingActivity](https://github.com/goktugyil/CozyLoadingActivity) - 轻量的载入动作指示 HUD ★
+*   [CozyLoadingActivity](https://github.com/goktugyil/EZLoadingActivity) - 轻量的载入动作指示 HUD ★
 
 ### <a name="eventbus"></a>事件总线
 
 *   [Caravel](https://github.com/coshx/caravel) - 用于 UIWebView 和 JS 的 Swift 事件总线。★
 *   [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - 一个真对 iOS 8 优化的发布／订阅事件总线。★
 *   [PromiseKit](https://github.com/mxcl/PromiseKit) - iOS 和 OS X 上的 Promises 实现。
-*   [Bolts](https://github.com/BoltsFramework/Bolts-iOS) - Bolts 是一个试图使构建移动应用更简单的一个底层库集合。包括了任务（promises）和应用关联（deep links）。
+*   [Bolts](https://github.com/BoltsFramework/Bolts-ObjC) - Bolts 是一个试图使构建移动应用更简单的一个底层库集合。包括了任务（promises）和应用关联（deep links）。
 *   [SwiftTask](https://github.com/ReactKit/SwiftTask) - Swift 实现的 Promise + progress + pause + cancel + retry。 ★
 
 ### <a name="files"></a>文件
@@ -381,9 +381,9 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [Orbiter](https://github.com/mattt/Orbiter) - 在 iOS 中注册推送通知。
 *   [PEM](https://github.com/fastlane/PEM) - 为推送服务器自动生成 profile。
 *   [Parse Push](https://parse.com/products/push) - 完全免费的后台推送通知，提供了创建分段，调度甚至 A/B 测试的能力。
-*   [Urban Airship](https://www.urbanairship.com/products/platform#push-messages) - 付费的推送通知后台。
+*   [Urban Airship](https://www.urbanairship.com/products/engage#push-messages) - 付费的推送通知后台。
 *   [Growth Push](https://growthpush.com) - 付费的推送通知。 它是在日本最受开发者喜爱的工具之一。
-*   [APNS-Pusher](https://github.com/KnuffApp/APNS-Pusher) - 苹果推送通知服务的调试器。
+*   [APNS-Pusher](https://github.com/KnuffApp/Knuff) - 苹果推送通知服务的调试器。
 
 ### <a name="passbook"></a>Passbook
 
@@ -512,7 +512,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [HoneycombView](https://github.com/suzuki-0000/HoneycombView) - HoneycombView 是用来显示类似 Honyecomb 布局的 iOS UIView，由 Swift 实现。★
 *   [tapkulibrary](https://github.com/devinross/tapkulibrary) - tap + haiku = tapku, 一个精心设计的 iOS 开源框架。
 *   [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - 很好的加载动画集合。★
-*   [KCJogDial](https://github.com/kciter/KCJogDial) - 提供控制功能的 UIView，类似一个转轮控制器。★
+*   [KCJogDial](https://github.com/kciter/KCHorizontalDial) - 提供控制功能的 UIView，类似一个转轮控制器。★
 *   [PagingMenuController](https://github.com/kitasuke/PagingMenuController) - 有可定制的菜单的分页视图控制器，Swift 实现。★
 *   [RadialMenu](https://github.com/bradjasper/radialmenu) - RadialMenu 是一个提供了触控的上下文菜单（类似 iOS8 中 iMessage 的录制按钮）的自定义控件。使用 Swift 和 POP 框架构建。★
 *   [VLDContextSheet](https://github.com/vangelov/VLDContextSheet) - 类似 Pinterest iOS app 中的菜单。
@@ -595,7 +595,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [DWURecyclingAlert](https://github.com/diwu/DWURecyclingAlert) - 优化 UITableViewCell 的滚动流畅性。
 *   [DCIntrospect](https://github.com/domesticcatsoftware/DCIntrospect) - 小型的 iOS 可视化调试工具库。
 *   [Watchdog](https://github.com/wojteklu/Watchdog) - 一个用于记录阻塞主线程的过重任务的类。★
-*   [Tailor](http://tailor.sh/) - 跨平台的 Swift 代码静态分析器，它帮助你编写更加清洁的代码，避免 bug。
+*   [Tailor](https://tailor.sh/) - 跨平台的 Swift 代码静态分析器，它帮助你编写更加清洁的代码，避免 bug。
 *   [SwiftCop](https://github.com/andresinaka/SwiftCop) - SwiftCop 是一个很实用的格式验证库，灵感来自 Ruby On Rails 清晰的活动记录验证。★
 
 ### <a name="analytics"></a>分析
@@ -619,7 +619,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ### <a name="products"></a>生产力
 
-*   [Import.io](https://import.io) - 将网页即时转换为数据。
+*   [Import.io](https://www.import.io/) - 将网页即时转换为数据。
 *   [Tapglue](https://www.tapglue.com) - 是用很少的代码来构建社交产品和活动的 feed。
 
 ### <a name="utility"></a>工具
@@ -865,7 +865,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [NSHipster](http://nshipster.com)
 *   [Objc.io](https://www.objc.io/)
 *   [ASCIIwwdc](http://asciiwwdc.com)
-*   [Natasha The Robot](http://natashatherobot.com)
+*   [Natasha The Robot](https://www.natashatherobot.com/)
 *   [Apple's Swift Blog](https://developer.apple.com/swift/blog/) ★
 *   [iOS Programming Subreddit](https://www.reddit.com/r/iosprogramming)
 *   [iOS Dev Weekly](https://iosdevweekly.com/)
@@ -904,7 +904,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [Mike Ash](https://www.mikeash.com/pyblog/)
 *   [Big Nerd Ranch](https://www.bignerdranch.com/blog/categories/ios/) ★
 *   [Tuts+](http://code.tutsplus.com/categories/ios-sdk) ★
-*   [iOS-Blog](http://ios-blog.co.uk/) ★
+*   [iOS-Blog](http://www.ios-blog.co.uk/) ★
 *   [Thinkster](https://thinkster.io/a-better-way-to-learn-swift) ★
 *   [Swift Education](https://github.com/swifteducation) - 一个供教育者分享 Swift 和 app 开发学习材料的社区。★
 *   [Cocoa Dev Central](http://cocoadevcentral.com)
