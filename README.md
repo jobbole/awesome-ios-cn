@@ -33,7 +33,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[ARIGATO](http://www.jobbole.com/members/lu123321shenzhen)、You
+- 贡献者：[ARIGATO](http://www.jobbole.com/members/lu123321shenzhen)、[星满苍穹](http://www.jobbole.com/members/zhuimengren0807004/)、You
 
 注：名单不分排名，不定期补充更新
 
@@ -132,7 +132,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [EZAudio](https://github.com/syedhali/EZAudio) - 一个基于 Core Audio 的 iOS/OSX 音频可视化框架。用于实时，低延迟的音频处理和可视化功能的开发。
 *   [novocaine](https://github.com/alexbw/novocaine) - 应用于 OSX 和 iOS 的高性能音频框架。
 *   [QHSpeechSynthesizerQueue](https://github.com/quentinhayot/QHSpeechSynthesizerQueue) - 一个 `AVSpeechSynthesizer`（iOS文本发音） 的队列管理系统。
-*   [StreamingKit](https://github.com/tumtumtum/StreamingKit) - 一个针对 OSX 和 iOS 中 `AudioPlayer/AudioStreamer` 快捷的无缝扩展。
+*   [StreamingKit](http://hao.jobbole.com/streamingkit/) - 一个针对 OSX 和 iOS 中 `AudioPlayer/AudioStreamer` 快捷的无缝扩展。[官网](https://github.com/tumtumtum/StreamingKit)
 *   [sound-fader-ios](https://github.com/evgenyneu/sound-fader-ios) - 一个 Swift 写的 `AVAudioPlayer` 的声音控制器 ★
 
 ### 动画
