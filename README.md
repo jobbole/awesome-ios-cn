@@ -130,7 +130,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [AudioBus](https://developer.audiob.us/) - 下一代 App 到 App 的实时音频路由。
 *   [AudioKit](https://github.com/audiokit/AudioKit) - 一个强大的音频合成，处理和分析的工具集。
 *   [EZAudio](https://github.com/syedhali/EZAudio) - 一个基于 Core Audio 的 iOS/OSX 音频可视化框架。用于实时，低延迟的音频处理和可视化功能的开发。
-*   [novocaine](https://github.com/alexbw/novocaine) - 应用于 OSX 和 iOS 的高性能音频框架。
+*   [novocaine](http://hao.jobbole.com/novocaine/)：应用于 OSX 和 iOS 的高性能音频框架。[官网](https://github.com/alexbw/novocaine) 
 *   [QHSpeechSynthesizerQueue](https://github.com/quentinhayot/QHSpeechSynthesizerQueue) - 一个 `AVSpeechSynthesizer`（iOS文本发音） 的队列管理系统。
 *   [StreamingKit](http://hao.jobbole.com/streamingkit/) - 一个针对 OSX 和 iOS 中 `AudioPlayer/AudioStreamer` 快捷的无缝扩展。[官网](https://github.com/tumtumtum/StreamingKit)
 *   [sound-fader-ios](https://github.com/evgenyneu/sound-fader-ios) - 一个 Swift 写的 `AVAudioPlayer` 的声音控制器 ★
