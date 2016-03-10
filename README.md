@@ -127,11 +127,11 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ### <a name="audio"></a>音频
 
-*   [AudioBus](https://developer.audiob.us/) - 下一代 App 到 App 的实时音频路由。
-*   [AudioKit](https://github.com/audiokit/AudioKit) - 一个强大的音频合成，处理和分析的工具集。
-*   [EZAudio](https://github.com/syedhali/EZAudio) - 一个基于 Core Audio 的 iOS/OSX 音频可视化框架。用于实时，低延迟的音频处理和可视化功能的开发。
+*   [AudioBus](http://hao.jobbole.com/audiobu/)：下一代 App 到 App 的实时音频路由。[官网](https://developer.audiob.us/)
+*   [AudioKit](http://hao.jobbole.com/audiokit/)：一个强大的音频合成，处理和分析的工具集。[官网](https://github.com/audiokit/AudioKit)
+*   [EZAudio](http://hao.jobbole.com/ezaudio/)：一个基于 Core Audio 的 iOS/OSX 音频可视化框架。用于实时，低延迟的音频处理和可视化功能的开发。[官网](https://github.com/syedhali/EZAudio)
 *   [novocaine](http://hao.jobbole.com/novocaine/)：应用于 OSX 和 iOS 的高性能音频框架。[官网](https://github.com/alexbw/novocaine) 
-*   [QHSpeechSynthesizerQueue](https://github.com/quentinhayot/QHSpeechSynthesizerQueue) - 一个 `AVSpeechSynthesizer`（iOS文本发音） 的队列管理系统。
+*   [QHSpeechSynthesizerQueue](http://hao.jobbole.com/qhspeechsynthesizerqueue/)：一个 `AVSpeechSynthesizer`（iOS文本发音） 的队列管理系统。[官网](https://github.com/quentinhayot/QHSpeechSynthesizerQueue)
 *   [StreamingKit](http://hao.jobbole.com/streamingkit/) - 一个针对 OSX 和 iOS 中 `AudioPlayer/AudioStreamer` 快捷的无缝扩展。[官网](https://github.com/tumtumtum/StreamingKit)
 *   [sound-fader-ios](http://hao.jobbole.com/sound-fader-ios/)：一个 Swift 写的 `AVAudioPlayer` 的声音控制器 [官网](https://github.com/evgenyneu/sound-fader-ios)★
 
@@ -309,6 +309,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [NAMapKit](https://github.com/neilang/NAMapKit) - 允许你在 iPhone 应用使用自定义地图，并尝试模仿 Mapkit 框架的一些行为。
 *   [Mapbox GL](https://github.com/mapbox/mapbox-gl-native) - 一个 iOS 上使用 OpenGL 渲染 Mapbox 矢量地图块的框架。
 *   [CMMapLauncher](https://github.com/citymapper/CMMapLauncher) - 用于 iOS 中在各种地图应用中显示方向的便捷框架。
+*   [百度地图iOS SDK](http://hao.jobbole.com/baidu_map_ios_sdk/)：一套功能丰富的地图开发工具包。[官网](http://lbsyun.baidu.com/index.php?title=iossdk)
 
 ### <a name="media"></a>媒体
 
