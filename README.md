@@ -137,7 +137,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ### 动画
 
-*   [Pop](https://github.com/facebook/pop) - 一个 iOS 和 OS X 动画库，可以方便地实现由物理效果的交互。
+*   [Pop](http://hao.jobbole.com/pop/)：一个 iOS 和 OS X 动画库，可以方便地实现由物理效果的交互。[官网](https://github.com/facebook/pop) 
 *   [AnimationEngine](https://github.com/intuit/AnimationEngine) - 可以在 iOS 上方便地构建高级自定义动画。
 *   [Awesome-iOS-Animation](https://github.com/jackyzh/awesome-ios-animation) - 一个动画项目的集合。
 *   [RZTransitions](https://github.com/Raizlabs/RZTransitions) - iOS View Controller 过场动画库。
@@ -146,7 +146,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [Canvas](https://github.com/CanvasPod/Canvas) - 无需代码就可以在 Xcode 中显示动画 [http://canvaspod.io](http://canvaspod.io)。
 *   [Fluent](https://github.com/matthewcheok/Fluent) - 便捷的 Swift 动画框架。 ★
 *   [Cheetah](https://github.com/suguru/Cheetah) - 便捷的 iOS 动画库，由 Swift2 编写。 ★
-*   [RadialLayer](https://github.com/soheil/RadialLayer) - 针对可点击元素的动画（类似于 Youtube Music）★
+*   [RadialLayer](http://hao.jobbole.com/radiallayer/)：针对可点击元素的动画（类似于 Youtube Music）★[官网](https://github.com/soheil/RadialLayer)
 
 ### <a name="apple-tv"></a>Apple TV
 
