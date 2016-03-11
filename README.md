@@ -144,7 +144,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [DCAnimationKit](https://github.com/daltoniam/DCAnimationKit) - iOS 动画集合。很简单，只需要添加流水动画。
 *   [Spring](https://github.com/MengTo/Spring) - 一个简单的 Swift iOS 动画库。
 *   [Canvas](https://github.com/CanvasPod/Canvas) - 无需代码就可以在 Xcode 中显示动画 [http://canvaspod.io](http://canvaspod.io)。
-*   [Fluent](https://github.com/matthewcheok/Fluent) - 便捷的 Swift 动画框架。 ★
+*   [Fluent](http://hao.jobbole.com/fluent/)：便捷的 Swift 动画框架。 ★[官网](https://github.com/matthewcheok/Fluent)
 *   [Cheetah](https://github.com/suguru/Cheetah) - 便捷的 iOS 动画库，由 Swift2 编写。 ★
 *   [RadialLayer](http://hao.jobbole.com/radiallayer/)：针对可点击元素的动画（类似于 Youtube Music）★[官网](https://github.com/soheil/RadialLayer)
 
