@@ -139,13 +139,13 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   [Pop](http://hao.jobbole.com/pop/)：一个 iOS 和 OS X 动画库，可以方便地实现由物理效果的交互。[官网](https://github.com/facebook/pop) 
 *   [AnimationEngine](https://github.com/intuit/AnimationEngine) - 可以在 iOS 上方便地构建高级自定义动画。
-*   [Awesome-iOS-Animation](https://github.com/jackyzh/awesome-ios-animation) - 一个动画项目的集合。
-*   [RZTransitions](https://github.com/Raizlabs/RZTransitions) - iOS View Controller 过场动画库。
-*   [DCAnimationKit](https://github.com/daltoniam/DCAnimationKit) - iOS 动画集合。很简单，只需要添加流水动画。
-*   [Spring](https://github.com/MengTo/Spring) - 一个简单的 Swift iOS 动画库。
-*   [Canvas](https://github.com/CanvasPod/Canvas) - 无需代码就可以在 Xcode 中显示动画 [http://canvaspod.io](http://canvaspod.io)。
+*   [Awesome-iOS-Animation](http://hao.jobbole.com/awesome-ios-animation/)：一个动画项目的集合。[官网](https://github.com/jackyzh/awesome-ios-animation)
+*   [RZTransitions](http://hao.jobbole.com/rztransitions/)：iOS View Controller 过场动画库。[官网](https://github.com/Raizlabs/RZTransitions)
+*   [DCAnimationKit](http://hao.jobbole.com/dcanimationkit/)：iOS 动画集合。很简单，只需要添加流水动画。[官网](https://github.com/daltoniam/DCAnimationKit)
+*   [Spring](http://hao.jobbole.com/spring_ios/)：一个简单的 Swift iOS 动画库。[官网](https://github.com/MengTo/Spring)
+*   [Canvas](http://hao.jobbole.com/canvas/)：无需代码就可以在 Xcode 中显示动画 [http://canvaspod.io](http://canvaspod.io)。[官网](https://github.com/CanvasPod/Canvas)
 *   [Fluent](http://hao.jobbole.com/fluent/)：便捷的 Swift 动画框架。 ★[官网](https://github.com/matthewcheok/Fluent)
-*   [Cheetah](https://github.com/suguru/Cheetah) - 便捷的 iOS 动画库，由 Swift2 编写。 ★
+*   [Cheetah](http://hao.jobbole.com/cheetah/)：便捷的 iOS 动画库，由 Swift2 编写。 ★[官网](https://github.com/suguru/Cheetah)
 *   [RadialLayer](http://hao.jobbole.com/radiallayer/)：针对可点击元素的动画（类似于 Youtube Music）★[官网](https://github.com/soheil/RadialLayer)
 
 ### <a name="apple-tv"></a>Apple TV
@@ -310,6 +310,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [Mapbox GL](https://github.com/mapbox/mapbox-gl-native) - 一个 iOS 上使用 OpenGL 渲染 Mapbox 矢量地图块的框架。
 *   [CMMapLauncher](https://github.com/citymapper/CMMapLauncher) - 用于 iOS 中在各种地图应用中显示方向的便捷框架。
 *   [百度地图iOS SDK](http://hao.jobbole.com/baidu_map_ios_sdk/)：一套功能丰富的地图开发工具包。[官网](http://lbsyun.baidu.com/index.php?title=iossdk)
+*   [百度鹰眼轨迹iOS SDK](http://hao.jobbole.com/baidu_yingyan_ios-sdk/)：一套能够进行绑路纠偏的轨迹开发工具包。[官网](http://lbsyun.baidu.com/index.php?title=ios-yingyan)
 
 ### <a name="media"></a>媒体
 
