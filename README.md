@@ -150,11 +150,11 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ### <a name="apple-tv"></a>Apple TV
 
-*   [Voucher](https://github.com/rsattar/Voucher) - 方便 tvOS App 通过 iOS 设备上相应的程序来认证的库。
+*   [Voucher](http://hao.jobbole.com/voucher/)：方便 tvOS App 通过 iOS 设备上相应的程序来认证的库。[官网](https://github.com/rsattar/Voucher)
 
 ### <a name="bridging"></a>桥接
 
-*   [JSPatch](https://github.com/bang590/JSPatch) - JSPatch 利用 Objective-C 运行时桥接了 Objective-C 和 Javascript。你仅需引入一个小的引擎，就可以使用 JS 调用任何 Objective-C 的类。JSPatch 通常用来对 iOS App 做热修复（hotfix）。
+*   [JSPatch](http://hao.jobbole.com/jspatch/)：JSPatch 利用 Objective-C 运行时桥接了 Objective-C 和 Javascript。你仅需引入一个小的引擎，就可以使用 JS 调用任何 Objective-C 的类。JSPatch 通常用来对 iOS App 做热修复（hotfix）。[官网](https://github.com/bang590/JSPatch)
 
 ### <a name="cache"></a>缓存
 
