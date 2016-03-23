@@ -158,7 +158,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ### <a name="cache"></a>缓存
 
-*   [SDURLCache](https://github.com/steipete/SDURLCache) - URLCache 的子类，可以为 iPhone/iPad 应用提供的本地磁盘缓存。
+*   [SDURLCache](http://hao.jobbole.com/sdurlcache/)：URLCache的子类，可以为 iPhone/iPad 应用提供的本地磁盘缓存。[官网](https://github.com/steipete/SDURLCache)
 *   [Awesome Cache](https://github.com/aschuch/AwesomeCache) - 让人喜爱的本地缓存 ★
 *   [mattress](https://github.com/buzzfeed/mattress) - iOS Web 内容的离线缓存 ★
 *   [Carlos](https://github.com/WeltN24/Carlos) - 简单但却灵活的缓存 ★
