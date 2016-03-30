@@ -167,7 +167,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   [ios-charts](https://github.com/danielgindi/ios-charts) - 一个强大的图表框架，[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) 在 iOS 上的移植。★
 *   [JTChartView](https://github.com/kubatru/JTChartView) - JTChartView 是一个完全可定制的轻量级图表解决方案。
-*   [PNChart](https://github.com/kevinzhow/PNChart) - 一个简单漂亮的图表库，Pinner 和 CoinsMan 的iOS客户端中使用了这个框架。
+*   [PNChart](http://hao.jobbole.com/pnchart/)：一个简单漂亮的图表库，Pinner 和 CoinsMan 的iOS客户端中使用了这个框架。[官网](https://github.com/kevinzhow/PNChart)
 *   [BEMSimpleLineGraph](https://github.com/Boris-Em/BEMSimpleLineGraph) - 优雅的折线图框架。
 *   [JBChartView](https://github.com/Jawbone/JBChartView) - 基于 iOS 的图表库，包含折线图和直方图。
 *   [iOSPlot](https://github.com/honcheng/iOSPlot) - iOS 图表库。
