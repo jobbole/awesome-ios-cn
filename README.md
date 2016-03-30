@@ -138,7 +138,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 动画
 
 *   [Pop](http://hao.jobbole.com/pop/)：一个 iOS 和 OS X 动画库，可以方便地实现由物理效果的交互。[官网](https://github.com/facebook/pop) 
-*   [AnimationEngine](https://github.com/intuit/AnimationEngine) - 可以在 iOS 上方便地构建高级自定义动画。
+*   [AnimationEngine](http://hao.jobbole.com/animationengine/)：可以在 iOS 上方便地构建高级自定义动画。[官网](https://github.com/intuit/AnimationEngine)
 *   [Awesome-iOS-Animation](http://hao.jobbole.com/awesome-ios-animation/)：一个动画项目的集合。[官网](https://github.com/jackyzh/awesome-ios-animation)
 *   [RZTransitions](http://hao.jobbole.com/rztransitions/)：iOS View Controller 过场动画库。[官网](https://github.com/Raizlabs/RZTransitions)
 *   [DCAnimationKit](http://hao.jobbole.com/dcanimationkit/)：iOS 动画集合。很简单，只需要添加流水动画。[官网](https://github.com/daltoniam/DCAnimationKit)
