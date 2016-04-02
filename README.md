@@ -33,7 +33,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[ARIGATO](http://www.jobbole.com/members/lu123321shenzhen/)、[星满苍穹](http://www.jobbole.com/members/zhuimengren0807004/)、[天道](http://hao.jobbole.com/sound-fader-ios/)、You
+- 贡献者：[ARIGATO](http://www.jobbole.com/members/lu123321shenzhen/)、[星满苍穹](http://www.jobbole.com/members/zhuimengren0807004/)、[天道](http://hao.jobbole.com/sound-fader-ios/)、[
+huanghui1](https://github.com/huanghui1)、You
 
 注：名单不分排名，不定期补充更新
 
@@ -691,6 +692,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   OHHTTPStubs：方便地为你的网络请求做存根（Stub）! 使用网络假数据测试你的 app ，你也可以自定义响应时间，响应代码和响应头！[官网](https://github.com/AliSoftware/OHHTTPStubs)
 *   Dixie：Dixie 是一个开源的 Objective-C 测试框架。用于改变对象的行为。[官网](https://github.com/Skyscanner/Dixie)
 *   gh-unit：Objective-C 的测试框架。[官网](https://github.com/gh-unit/gh-unit)
+*   LayoutTest-iOS：一个测试视图的布局的框架，支持多种配置。[官网](https://github.com/linkedin/LayoutTest-iOS)
 
 ### <a name="ui-testing"></a>UI 测试
 
