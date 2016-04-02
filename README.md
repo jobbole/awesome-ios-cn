@@ -33,7 +33,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[ARIGATO](http://www.jobbole.com/members/lu123321shenzhen)、[星满苍穹](http://www.jobbole.com/members/zhuimengren0807004/)、[天道](http://hao.jobbole.com/sound-fader-ios/)、You
+- 贡献者：[ARIGATO](http://www.jobbole.com/members/lu123321shenzhen/)、[星满苍穹](http://www.jobbole.com/members/zhuimengren0807004/)、[天道](http://hao.jobbole.com/sound-fader-ios/)、You
 
 注：名单不分排名，不定期补充更新
 
@@ -256,14 +256,14 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   M13ProgressSuite：一个包含了很多 iOS 上用于显示进度信息工具的套装。[官网](https://github.com/Marxon13/M13ProgressSuite)
 *   JHProgressHUD：一个简单轻量的 Swift 框架，用于在 iOS 应用中显示★[官网](https://github.com/harikrishnant1991/JHProgressHUD)
 *   PKHUD：用 Swift 重新实现了 Apple 的原生 HUD，支持 iOS 8 以上★[官网](https://github.com/pkluz/PKHUD)
-*   CozyLoadingActivity：轻量的载入动作指示 HUD ★[官网](https://github.com/goktugyil/CozyLoadingActivity)
+*   CozyLoadingActivity：轻量的载入动作指示 HUD ★[官网](https://github.com/goktugyil/EZLoadingActivity)
 
 ### <a name="eventbus"></a>事件总线
 
 *   Caravel：用于 UIWebView 和 JS 的 Swift 事件总线。★[官网](https://github.com/coshx/caravel)
 *   SwiftEventBus：一个真对 iOS 8 优化的发布／订阅事件总线。★[官网](https://github.com/cesarferreira/SwiftEventBus)
 *   PromiseKit：iOS 和 OS X 上的 Promises 实现。[官网](https://github.com/mxcl/PromiseKit)
-*   Bolts：Bolts 是一个试图使构建移动应用更简单的一个底层库集合。包括了任务（promises）和应用关联（deep links）。[官网](https://github.com/BoltsFramework/Bolts-iOS)
+*   Bolts：Bolts 是一个试图使构建移动应用更简单的一个底层库集合。包括了任务（promises）和应用关联（deep links）。[官网](https://github.com/BoltsFramework/Bolts-ObjC)
 *   SwiftTask：Swift 实现的 Promise + progress + pause + cancel + retry。 ★[官网](https://github.com/ReactKit/SwiftTask)
 
 ### <a name="files"></a>文件
@@ -392,7 +392,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Parse Push：完全免费的后台推送通知，提供了创建分段，调度甚至 A/B 测试的能力。[官网](https://parse.com/products/push)
 *   Urban Airship：付费的推送通知后台。[官网](https://www.urbanairship.com/products/platform#push-messages)
 *   Growth Push：付费的推送通知。 它是在日本最受开发者喜爱的工具之一。[官网](https://growthpush.com)
-*   APNS-Pusher：苹果推送通知服务的调试器。[官网](https://github.com/KnuffApp/APNS-Pusher)
+*   APNS-Pusher：苹果推送通知服务的调试器。[官网](https://github.com/KnuffApp/Knuff)
 
 ### <a name="passbook"></a>Passbook
 
@@ -521,7 +521,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   HoneycombView：HoneycombView 是用来显示类似 Honyecomb 布局的 iOS UIView，由 Swift 实现。★[官网](https://github.com/suzuki-0000/HoneycombView)
 *   tapkulibrary：tap + haiku = tapku, 一个精心设计的 iOS 开源框架。[官网](https://github.com/devinross/tapkulibrary)
 *   NVActivityIndicatorView：很好的加载动画集合。★[官网](https://github.com/ninjaprox/NVActivityIndicatorView)
-*   KCJogDial：提供控制功能的 UIView，类似一个转轮控制器。★[官网](https://github.com/kciter/KCJogDial)
+*   KCJogDial：提供控制功能的 UIView，类似一个转轮控制器。★[官网](https://github.com/kciter/KCHorizontalDial)
 *   PagingMenuController：有可定制的菜单的分页视图控制器，Swift 实现。★[官网](https://github.com/kitasuke/PagingMenuController)
 *   RadialMenu：RadialMenu 是一个提供了触控的上下文菜单（类似 iOS8 中 iMessage 的录制按钮）的自定义控件。使用 Swift 和 POP 框架构建。★[官网](https://github.com/bradjasper/radialmenu)
 *   VLDContextSheet：类似 Pinterest iOS app 中的菜单。[官网](https://github.com/vangelov/VLDContextSheet)
@@ -604,7 +604,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   DWURecyclingAlert：优化 UITableViewCell 的滚动流畅性。[官网](https://github.com/diwu/DWURecyclingAlert)
 *   DCIntrospect：小型的 iOS 可视化调试工具库。[官网](https://github.com/domesticcatsoftware/DCIntrospect)
 *   Watchdog：一个用于记录阻塞主线程的过重任务的类。★[官网](https://github.com/wojteklu/Watchdog)
-*   Tailor：跨平台的 Swift 代码静态分析器，它帮助你编写更加清洁的代码，避免 bug。[官网](http://tailor.sh/)
+*   Tailor：跨平台的 Swift 代码静态分析器，它帮助你编写更加清洁的代码，避免 bug。[官网](https://tailor.sh/)
 *   SwiftCop：SwiftCop 是一个很实用的格式验证库，灵感来自 Ruby On Rails 清晰的活动记录验证。★[官网](https://github.com/andresinaka/SwiftCop)
 
 ### <a name="analytics"></a>分析
@@ -873,7 +873,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [NSHipster](http://nshipster.com)
 *   [Objc.io](https://www.objc.io/)
 *   [ASCIIwwdc](http://asciiwwdc.com)
-*   [Natasha The Robot](http://natashatherobot.com)
+*   [Natasha The Robot](https://natashatherobot.com)
 *   [Apple's Swift Blog](https://developer.apple.com/swift/blog/) ★
 *   [iOS Programming Subreddit](https://www.reddit.com/r/iosprogramming)
 *   [iOS Dev Weekly](https://iosdevweekly.com/)
@@ -912,7 +912,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [Mike Ash](https://www.mikeash.com/pyblog/)
 *   [Big Nerd Ranch](https://www.bignerdranch.com/blog/categories/ios/) ★
 *   [Tuts+](http://code.tutsplus.com/categories/ios-sdk) ★
-*   [iOS-Blog](http://ios-blog.co.uk/) ★
+*   [iOS-Blog](http://www.ios-blog.co.uk/) ★
 *   [Thinkster](https://thinkster.io/a-better-way-to-learn-swift) ★
 *   [Swift Education](https://github.com/swifteducation)：一个供教育者分享 Swift 和 app 开发学习材料的社区。★
 *   [Cocoa Dev Central](http://cocoadevcentral.com)
