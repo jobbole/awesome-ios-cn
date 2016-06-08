@@ -200,7 +200,7 @@ huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/m
 *   [EChart](http://hao.jobbole.com/ios-echart/)：iOS/iPhone/iPad 图表。提供了事件处理和动画支持。[官网](https://github.com/zhuhuihuihui/EChart)
 *   FSLineChart：一个 iOS 折线图库。[官网](https://github.com/ArthurGuibert/FSLineChart)
 *   chartee：一个为移动平台设计的图表库。[官网](https://github.com/zhiyu/chartee)
-*   ANDLineChartView：使用 ANDLineChartView 可以便捷的在视图类中显示有动画效果的折线图。[官网](https://github.com/anaglik/ANDLineChartView)
+*   [ANDLineChartView](http://hao.jobbole.com/andlinechartview/)：使用 ANDLineChartView 可以便捷的在视图类中显示有动画效果的折线图。[官网](https://github.com/anaglik/ANDLineChartView)
 *   TWRCharts：一个 ChartJS 的 iOS 封装。结合 Obj-C 原生代码便捷地构建有动画的图表。[官网](https://github.com/chasseurmic/TWRCharts)
 
 ### <a name="core-data"></a>Core Data
