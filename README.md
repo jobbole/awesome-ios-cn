@@ -194,7 +194,6 @@ huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/m
 *   [PNChart](http://hao.jobbole.com/pnchart/)：一个简单漂亮的图表库，Pinner 和 CoinsMan 的iOS客户端中使用了这个框架。[官网](https://github.com/kevinzhow/PNChart)
 *   BEMSimpleLineGraph：优雅的折线图框架。[官网](https://github.com/Boris-Em/BEMSimpleLineGraph)
 *   JBChartView：基于 iOS 的图表库，包含折线图和直方图。[官网](https://github.com/Jawbone/JBChartView)
-*   iOSPlot：iOS 图表库。[官网](https://github.com/honcheng/iOSPlot)
 *   [XYPieChart](http://hao.jobbole.com/xypiechart/)：一个有动画的饼图框架。[官网](https://github.com/xyfeng/XYPieChart)
 *   [TEAChart](http://hao.jobbole.com/teachart/)：简单易用的 iOS 图表库。包括了贡献图、时钟图、直方图。[官网](https://github.com/xhacker/TEAChart)
 *   [EChart](http://hao.jobbole.com/ios-echart/)：iOS/iPhone/iPad 图表。提供了事件处理和动画支持。[官网](https://github.com/zhuhuihuihui/EChart)
