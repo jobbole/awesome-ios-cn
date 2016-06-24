@@ -47,7 +47,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
 - 贡献者：[ARIGATO](http://www.jobbole.com/members/lu123321shenzhen/)、[星满苍穹](http://www.jobbole.com/members/zhuimengren0807004/)、[天道](http://hao.jobbole.com/sound-fader-ios/)、[
-huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/members/liushivae)、[徐健](http://www.jobbole.com/members/Xcoderj/)、You
+huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/members/liushivae)、[徐健](http://www.jobbole.com/members/Xcoderj/)、[西西里的仔仔](http://www.jobbole.com/members/1595331303/)、You
 
 注：名单不分排名，不定期补充更新
 
@@ -252,15 +252,15 @@ huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/m
 ##### <a name="location"></a>位置
 
 *   IngeoSDK：总是处于开启状态的 iOS 位置显示框架。[官网](https://github.com/IngeoSDK/ingeo-ios-sdk)
-*   Proxitee：允许开发者利用 iBeacons 和地理围栏创建近场感知的应用。[官网](https://github.com/Proxitee/iOS-SDK)
+*   [Proxitee](http://hao.jobbole.com/proxitee/)：允许开发者利用 iBeacons 和地理围栏创建近场感知的应用。[官网](https://github.com/Proxitee/iOS-SDK)
 *   LocationManager：实现了一次性或者持续请求当前位置的功能，提供了基于 block 的异步 API。[官网](https://github.com/intuit/LocationManager)
 *   LocationKit：高级位置 SDK － 只使用很少的电量和上下文相关的位置信息就可以提供高精确度的位置数据。[官网](https://locationkit.io)
 
 ##### <a name="ibeacon"></a>iBeacon
 
 *   Proxitee：允许开发者利用 iBeacons 和地理围栏创建近场感知的应用。[官网](https://github.com/Proxitee/iOS-SDK)
-*   OWUProximityManager：一个方便的 iBeacon + CoreBluetooth 管理器。[官网](https://github.com/ohwutup/OWUProximityManager)
-*   Vicinity：复制邻近的 iBeacons （通过分析RSSI），并支持在后台广播和检测 BLE 设备。[官网](https://github.com/Instrument/Vicinity)
+*   [OWUProximityManager](http://hao.jobbole.com/owuproximitymanager/)：一个方便的 iBeacon + CoreBluetooth 管理器。[官网](https://github.com/ohwutup/OWUProximityManager)
+*   [Vicinity](http://hao.jobbole.com/vicinity/)：复制邻近的 iBeacons （通过分析RSSI），并支持在后台广播和检测 BLE 设备。[官网](https://github.com/Instrument/Vicinity)
 *   BeaconEmitter：把你的 Mac 变成一个 iBeacon。[官网](https://github.com/lgaches/BeaconEmitter)
 *   OWUProximityManager：iBeacons + CoreBluetooth.[官网](https://github.com/ohwutup/OWUProximityManager)
 
