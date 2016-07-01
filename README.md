@@ -47,7 +47,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
 - 贡献者：[ARIGATO](http://www.jobbole.com/members/lu123321shenzhen/)、[星满苍穹](http://www.jobbole.com/members/zhuimengren0807004/)、[天道](http://hao.jobbole.com/sound-fader-ios/)、[
-huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/members/liushivae)、[徐健](http://www.jobbole.com/members/Xcoderj/)、[西西里的仔仔](http://www.jobbole.com/members/1595331303/)、You
+huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/members/liushivae)、[徐健](http://www.jobbole.com/members/Xcoderj/)、[西西里的仔仔](http://www.jobbole.com/members/1595331303/)、[朱亚光在push的日常](http://www.jobbole.com/members/2055497477/)、You
 
 注：名单不分排名，不定期补充更新
 
@@ -237,7 +237,7 @@ huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/m
 
 ##### <a name="motion"></a>动作
 
-*   MotionKit：只需要两行或者很少的几行代码就可以从加速度传感器、陀螺仪和磁力传感器获取数据。现在 CoreMotion 让这些变得前所未有的简单。[官网](https://github.com/MHaroonBaig/MotionKit)
+*   [MotionKit](http://hao.jobbole.com/motionkit/)：只需要两行或者很少的几行代码就可以从加速度传感器、陀螺仪和磁力传感器获取数据。现在 CoreMotion 让这些变得前所未有的简单。[官网](https://github.com/MHaroonBaig/MotionKit)
 
 #####  
 
@@ -251,10 +251,10 @@ huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/m
 
 ##### <a name="location"></a>位置
 
-*   IngeoSDK：总是处于开启状态的 iOS 位置显示框架。[官网](https://github.com/IngeoSDK/ingeo-ios-sdk)
+*   [IngeoSDK](http://hao.jobbole.com/ingeosdk/)：总是处于开启状态的 iOS 位置显示框架。[官网](https://github.com/IngeoSDK/ingeo-ios-sdk)
 *   [Proxitee](http://hao.jobbole.com/proxitee/)：允许开发者利用 iBeacons 和地理围栏创建近场感知的应用。[官网](https://github.com/Proxitee/iOS-SDK)
 *   LocationManager：实现了一次性或者持续请求当前位置的功能，提供了基于 block 的异步 API。[官网](https://github.com/intuit/LocationManager)
-*   LocationKit：高级位置 SDK － 只使用很少的电量和上下文相关的位置信息就可以提供高精确度的位置数据。[官网](https://locationkit.io)
+*   [LocationKit](http://hao.jobbole.com/locationkit/)：高级位置 SDK － 只使用很少的电量和上下文相关的位置信息就可以提供高精确度的位置数据。[官网](https://locationkit.io)
 
 ##### <a name="ibeacon"></a>iBeacon
 
