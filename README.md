@@ -216,7 +216,7 @@ huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/m
 *   encrypted-core-data：使用 SQLClipher 对 CoreData 的 SQLite 存储进行加密。[官网](https://github.com/project-imas/encrypted-core-data)
 *   MagicalRecord：非常优秀的 CoreData 便捷存取框架。[官网](https://github.com/magicalpanda/MagicalRecord)
 *   QueryKit：一个简洁的类型安全的 CoreData 查询语言 ★[官网](https://github.com/QueryKit/QueryKit)
-*   CoreStore：强大的 CoreData 框架，解决了增量迁移、获取、观察等问题。★[官网](https://github.com/JohnEstropia/CoreStore)
+*   [CoreStore](http://hao.jobbole.com/corestore/)：强大的 CoreData 框架，解决了增量迁移、获取、观察等问题。★[官网](https://github.com/JohnEstropia/CoreStore)
 
 ### <a name="database"></a>数据库
 
