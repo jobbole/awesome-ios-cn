@@ -213,7 +213,7 @@ huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/m
 *   SLRESTfulCoreData：根据 Objc 命名习惯，在运行时自动生成访问器，URL替换和智能属性映射。[官网](https://github.com/OliverLetterer/SLRESTfulCoreData)
 *   Mogenerator：自动生成 CoreData 代码。[官网](https://github.com/rentzsch/mogenerator)
 *   HardCoreData：不会阻塞 UI 线程的 CoreData 栈和控制器。[官网](https://github.com/Krivoblotsky/HardCoreData)
-*   encrypted-core-data：使用 SQLClipher 对 CoreData 的 SQLite 存储进行加密。[官网](https://github.com/project-imas/encrypted-core-data)
+*   [encrypted-core-data](http://hao.jobbole.com/encrypted-core-data/)：使用 SQLClipher 对 CoreData 的 SQLite 存储进行加密。[官网](https://github.com/project-imas/encrypted-core-data)
 *   MagicalRecord：非常优秀的 CoreData 便捷存取框架。[官网](https://github.com/magicalpanda/MagicalRecord)
 *   QueryKit：一个简洁的类型安全的 CoreData 查询语言 ★[官网](https://github.com/QueryKit/QueryKit)
 *   [CoreStore](http://hao.jobbole.com/corestore/)：强大的 CoreData 框架，解决了增量迁移、获取、观察等问题。★[官网](https://github.com/JohnEstropia/CoreStore)
