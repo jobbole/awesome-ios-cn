@@ -574,6 +574,7 @@ huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/m
 *   CardAnimation：卡片翻页动画效果。★[官网](https://github.com/seedante/CardAnimation)
 *   BEMCheckBox：优雅的 iOS 复选框。(Check box)[官网](https://github.com/Boris-Em/BEMCheckBox#sample-app)
 *   CVCalendar：支持 iOS 8+ 的自定义可视化日历，Swift（2.0）实现。★[官网](https://github.com/Mozharovsky/CVCalendar)
+*   JTAppleCalendar: 最好的iOS版雨燕日历库 ★[官网](https://github.com/patchthecode/JTAppleCalendar)
 *   SCLAlertView-Swift：Swift 实现的一个漂亮的动画 Alert View。★[官网](https://github.com/vikmeup/SCLAlertView-Swift)
 *   Atlas-iOS：Atlas 是一个原生 iOS 对话 UI Layer 组件。[官网](https://atlas.layer.com/ios)
 *   TKRubberIndicator：Swift 版橡胶 PageControl 指示器。 http://tbxark.github.io ★[官网](https://github.com/TBXark/TKRubberIndicator)
