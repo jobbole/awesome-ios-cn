@@ -670,6 +670,7 @@ huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/m
 *   Async：Swift 的 GCD 异步派发语法糖。★[官网](https://github.com/duemunk/Async)
 *   YOLOKit：让方块透过圆洞。[官网](https://github.com/mxcl/YOLOKit)
 *   EZSwiftExtensions：:smirk:标准类型和类是如何工作的。★[官网](https://github.com/goktugyil/EZSwiftExtensions)
+*   ChineseIDCardOCR: 利用前馈神经网络对身份证信息做OCR识别。 ★ [官网](https://github.com/KevinGong2013/ChineseIDCardOCR)
 
 ### <a name="security"></a>安全
 
