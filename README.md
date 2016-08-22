@@ -47,7 +47,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
 - 贡献者：[ARIGATO](http://www.jobbole.com/members/lu123321shenzhen/)、[星满苍穹](http://www.jobbole.com/members/zhuimengren0807004/)、[天道](http://hao.jobbole.com/sound-fader-ios/)、[
-huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/members/liushivae)、[徐健](http://www.jobbole.com/members/Xcoderj/)、[西西里的仔仔](http://www.jobbole.com/members/1595331303/)、[朱亚光在push的日常](http://www.jobbole.com/members/2055497477/)、[zjszyms](https://github.com/zjszyms)、[patchthecode](https://github.com/patchthecode)、[KevinGong2013](https://github.com/KevinGong2013)、You
+huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/members/liushivae)、[徐健](http://www.jobbole.com/members/Xcoderj/)、[西西里的仔仔](http://www.jobbole.com/members/1595331303/)、[朱亚光在push的日常](http://www.jobbole.com/members/2055497477/)、[zjszyms](https://github.com/zjszyms)、[patchthecode](https://github.com/patchthecode)、[KevinGong2013](https://github.com/KevinGong2013)、[张发白](http://www.jobbole.com/members/shuai265/)、You
 
 注：名单不分排名，不定期补充更新
 
@@ -207,7 +207,7 @@ huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/m
 
 *   CWCoreData：方便并发环境下 CoreData 框架开发的扩展与实用工具。[官网](https://github.com/jayway/CWCoreData)
 *   ObjectiveRecord：ActiveRecord 的 Objective-C 版本。[官网](https://github.com/supermarin/ObjectiveRecord)
-*   SSDataKit：消除使用 CoreData 产生的样板代码。[官网](https://github.com/soffes/SSDataKit)
+*   [SSDataKit](http://hao.jobbole.com/ssdatakit/)：消除使用 CoreData 产生的样板代码。[官网](https://github.com/soffes/SSDataKit)
 *   ios-queryable：ios-queryable 是一个基于 CoreData 的 IQueryable/IEnumerable 实现。[官网](https://github.com/martydill/ios-queryable)
 *   ReactiveCoreData：ReactiveCoreData (RCD) 是一个将 CoreData 带入 ReactiveCocoa 世界的尝试。[官网](https://github.com/apparentsoft/ReactiveCoreData)
 *   Ensembles：一个 CoreData 同步框架。[官网](https://github.com/drewmccormack/ensembles)
@@ -248,7 +248,7 @@ huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/m
 *   LGBluetooth：基于 CoreBluetooth 的一个轻量级库，基于 block 制作。它能够让你程序中的 CoreBluetooth 相关的代码更加简洁。[官网](https://github.com/l0gg3r/LGBluetooth)
 *   PeerKit：一个用于事件驱动，零配置的 Multipeer 连接应用程序的开源 Swift 框架。★[官网](https://github.com/jpsim/PeerKit)
 *   simple-share：一个基于蓝牙 LE 共享的框架，易于实现附近设备的连接。[官网](https://github.com/lauraskelton/simple-share)
-*   BluetoothKit：使用 BLE 在 iOS/OSX 设备之间通讯的框架★[官网](https://github.com/rasmusth/BluetoothKit)
+*   [BluetoothKit](http://hao.jobbole.com/bluetoothkit/)：使用 BLE 在 iOS/OSX 设备之间通讯的框架★[官网](https://github.com/rasmusth/BluetoothKit)
 
 ##### <a name="location"></a>位置
 
