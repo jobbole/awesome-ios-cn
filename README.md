@@ -245,7 +245,7 @@ huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/m
 ##### <a name="bluetooth"></a>蓝牙
 
 *   Discovery：这是个很简单的库，用来从附近的设备上发现和获取数据（即便 peer app 在后台工作）。[官网](https://github.com/omergul123/Discovery)
-*   LGBluetooth：基于 CoreBluetooth 的一个轻量级库，基于 block 制作。它能够让你程序中的 CoreBluetooth 相关的代码更加简洁。[官网](https://github.com/l0gg3r/LGBluetooth)
+*   [LGBluetooth](http://hao.jobbole.com/lgbluetooth/)：基于 CoreBluetooth 的一个轻量级库，基于 block 制作。它能够让你程序中的 CoreBluetooth 相关的代码更加简洁。[官网](https://github.com/l0gg3r/LGBluetooth)
 *   PeerKit：一个用于事件驱动，零配置的 Multipeer 连接应用程序的开源 Swift 框架。★[官网](https://github.com/jpsim/PeerKit)
 *   simple-share：一个基于蓝牙 LE 共享的框架，易于实现附近设备的连接。[官网](https://github.com/lauraskelton/simple-share)
 *   [BluetoothKit](http://hao.jobbole.com/bluetoothkit/)：使用 BLE 在 iOS/OSX 设备之间通讯的框架★[官网](https://github.com/rasmusth/BluetoothKit)
