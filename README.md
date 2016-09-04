@@ -157,7 +157,7 @@ huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/m
 *   TheAmazingAudioEngine：是iOS音频处理框架，简单易用，能对音频进行处理。[官网](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine)
 *   [novocaine](http://hao.jobbole.com/novocaine/)：应用于 OSX 和 iOS 的高性能音频框架。[官网](https://github.com/alexbw/novocaine) 
 *   [QHSpeechSynthesizerQueue](http://hao.jobbole.com/qhspeechsynthesizerqueue/)：一个 `AVSpeechSynthesizer`（iOS文本发音） 的队列管理系统。[官网](https://github.com/quentinhayot/QHSpeechSynthesizerQueue)
-*   StreamingKit：一个针对 OSX 和 iOS 中 `AudioPlayer/AudioStreamer` 快捷的无缝扩展。[官网](https://github.com/tumtumtum/StreamingKit)[官网](http://hao.jobbole.com/streamingkit/)
+*   [StreamingKit](http://hao.jobbole.com/streamingkit/)：一个针对 OSX 和 iOS 中 `AudioPlayer/AudioStreamer` 快捷的无缝扩展。[官网](https://github.com/tumtumtum/StreamingKit)
 *   [sound-fader-ios](http://hao.jobbole.com/sound-fader-ios/)：一个 Swift 写的 `AVAudioPlayer` 的声音控制器 [官网](https://github.com/evgenyneu/sound-fader-ios)★
 
 ### 动画
@@ -191,10 +191,10 @@ huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/m
 ### <a name="charts"></a>图表
 
 *   [ios-charts](http://hao.jobbole.com/ios-charts/)：一个强大的图表框架，[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) 在 iOS 上的移植。★[官网](https://github.com/danielgindi/ios-charts)
-*   JTChartView：JTChartView 是一个完全可定制的轻量级图表解决方案。[官网](https://github.com/kubatru/JTChartView)
+*   [JTChartView](http://hao.jobbole.com/jtchartview/)：JTChartView 是一个完全可定制的轻量级图表解决方案。[官网](https://github.com/kubatru/JTChartView)
 *   [PNChart](http://hao.jobbole.com/pnchart/)：一个简单漂亮的图表库，Pinner 和 CoinsMan 的iOS客户端中使用了这个框架。[官网](https://github.com/kevinzhow/PNChart)
-*   BEMSimpleLineGraph：优雅的折线图框架。[官网](https://github.com/Boris-Em/BEMSimpleLineGraph)
-*   JBChartView：基于 iOS 的图表库，包含折线图和直方图。[官网](https://github.com/Jawbone/JBChartView)
+*   [BEMSimpleLineGraph](http://hao.jobbole.com/bemsimplelinegraph/)：优雅的折线图框架。[官网](https://github.com/Boris-Em/BEMSimpleLineGraph)
+*   [JBChartView](http://hao.jobbole.com/jbchartview/)：基于 iOS 的图表库，包含折线图和直方图。[官网](https://github.com/Jawbone/JBChartView)
 *   [XYPieChart](http://hao.jobbole.com/xypiechart/)：一个有动画的饼图框架。[官网](https://github.com/xyfeng/XYPieChart)
 *   [TEAChart](http://hao.jobbole.com/teachart/)：简单易用的 iOS 图表库。包括了贡献图、时钟图、直方图。[官网](https://github.com/xhacker/TEAChart)
 *   [EChart](http://hao.jobbole.com/ios-echart/)：iOS/iPhone/iPad 图表。提供了事件处理和动画支持。[官网](https://github.com/zhuhuihuihui/EChart)
