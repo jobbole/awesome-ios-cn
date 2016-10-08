@@ -618,7 +618,7 @@ huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/m
 *   OCLint：静态代码分析工具，用以提高代码质量，减少瑕疵。[官网](http://oclint.org/)
 *   ocstyle：Objective-C 代码风格检查器。[官网](https://github.com/Cue/ocstyle)
 *   SwiftLint：一个实验性的工具，用于强化 Swift 的代码风格和习惯。★[官网](https://github.com/realm/SwiftLint)
-*   spacecommander：像一个团队那样，提交完全格式化的 Objective-C 代码。[官网](https://github.com/square/spacecommander)
+*   [spacecommander](http://hao.jobbole.com/spacecommander/)：像一个团队那样，提交完全格式化的 Objective-C 代码。[官网](https://github.com/square/spacecommander)
 *   DWURecyclingAlert：优化 UITableViewCell 的滚动流畅性。[官网](https://github.com/diwu/DWURecyclingAlert)
 *   DCIntrospect：小型的 iOS 可视化调试工具库。[官网](https://github.com/domesticcatsoftware/DCIntrospect)
 *   Watchdog：一个用于记录阻塞主线程的过重任务的类。★[官网](https://github.com/wojteklu/Watchdog)
