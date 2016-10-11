@@ -210,7 +210,7 @@ huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/m
 *   [SSDataKit](http://hao.jobbole.com/ssdatakit/)：消除使用 CoreData 产生的样板代码。[官网](https://github.com/soffes/SSDataKit)
 *   ios-queryable：ios-queryable 是一个基于 CoreData 的 IQueryable/IEnumerable 实现。[官网](https://github.com/martydill/ios-queryable)
 *   ReactiveCoreData：ReactiveCoreData (RCD) 是一个将 CoreData 带入 ReactiveCocoa 世界的尝试。[官网](https://github.com/apparentsoft/ReactiveCoreData)
-*   Ensembles：一个 CoreData 同步框架。[官网](https://github.com/drewmccormack/ensembles)
+*   [Ensembles](http://hao.jobbole.com/ensembles/)：一个 CoreData 同步框架。[官网](https://github.com/drewmccormack/ensembles)
 *   SLRESTfulCoreData：根据 Objc 命名习惯，在运行时自动生成访问器，URL替换和智能属性映射。[官网](https://github.com/OliverLetterer/SLRESTfulCoreData)
 *   Mogenerator：自动生成 CoreData 代码。[官网](https://github.com/rentzsch/mogenerator)
 *   HardCoreData：不会阻塞 UI 线程的 CoreData 栈和控制器。[官网](https://github.com/Krivoblotsky/HardCoreData)
