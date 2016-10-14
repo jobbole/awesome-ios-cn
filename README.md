@@ -688,6 +688,7 @@ huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/m
 *   KZBootstrap：iOS 项目的 bootstrap，目的是高质量的编码。[官网](https://github.com/krzysztofzablocki/KZBootstrap)
 *   amaro：优秀的 iOS 样板。[官网](https://github.com/crushlovely/Amaro)
 *   chairs：交换你的 iOS 模拟器文档。[官网](https://github.com/orta/chairs)
+*   [Darling](http://hao.jobbole.com/darling/)：在 Linux 运行 OS X 二进制文件。[官网](http://www.darlinghq.org)、[GitHub](https://github.com/LubosD/darling)
 
 # <a name="dependency--package-manager"></a>依赖 / 包管理
 
