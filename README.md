@@ -206,7 +206,7 @@ huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/m
 ### <a name="core-data"></a>Core Data
 
 *   CWCoreData：方便并发环境下 CoreData 框架开发的扩展与实用工具。[官网](https://github.com/jayway/CWCoreData)
-*   ObjectiveRecord：ActiveRecord 的 Objective-C 版本。[官网](https://github.com/supermarin/ObjectiveRecord)
+*   [ObjectiveRecord](http://hao.jobbole.com/objectiverecord/)：ActiveRecord 的 Objective-C 版本。[官网](https://github.com/supermarin/ObjectiveRecord)
 *   [SSDataKit](http://hao.jobbole.com/ssdatakit/)：消除使用 CoreData 产生的样板代码。[官网](https://github.com/soffes/SSDataKit)
 *   ios-queryable：ios-queryable 是一个基于 CoreData 的 IQueryable/IEnumerable 实现。[官网](https://github.com/martydill/ios-queryable)
 *   ReactiveCoreData：ReactiveCoreData (RCD) 是一个将 CoreData 带入 ReactiveCocoa 世界的尝试。[官网](https://github.com/apparentsoft/ReactiveCoreData)
