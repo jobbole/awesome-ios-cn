@@ -47,7 +47,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
 - 贡献者：[ARIGATO](http://www.jobbole.com/members/lu123321shenzhen/)、[星满苍穹](http://www.jobbole.com/members/zhuimengren0807004/)、[天道](http://hao.jobbole.com/sound-fader-ios/)、[
-huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/members/liushivae)、[徐健](http://www.jobbole.com/members/Xcoderj/)、[西西里的仔仔](http://www.jobbole.com/members/1595331303/)、[朱亚光在push的日常](http://www.jobbole.com/members/2055497477/)、[zjszyms](https://github.com/zjszyms)、[patchthecode](https://github.com/patchthecode)、[KevinGong2013](https://github.com/KevinGong2013)、[张发白](http://www.jobbole.com/members/shuai265/)、[冰斌](http://www.jobbole.com/members/libing1209/)、You
+huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/members/liushivae)、[徐健](http://www.jobbole.com/members/Xcoderj/)、[西西里的仔仔](http://www.jobbole.com/members/1595331303/)、[朱亚光在push的日常](http://www.jobbole.com/members/2055497477/)、[zjszyms](https://github.com/zjszyms)、[patchthecode](https://github.com/patchthecode)、[KevinGong2013](https://github.com/KevinGong2013)、[张发白](http://www.jobbole.com/members/shuai265/)、[冰斌](http://www.jobbole.com/members/libing1209/)、[Juliesand](http://www.jobbole.com/members/juliesh/)、You
 
 注：名单不分排名，不定期补充更新
 
@@ -615,7 +615,7 @@ huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/m
 *   PSPDFUIKitMainThreadGuard：简洁的代码片段，当 UIKit 在后台线程被使用时生成断言。[官网](https://gist.github.com/steipete/5664345)
 *   Flex：一个嵌入 iOS App 的调试和探索工具。[官网](https://github.com/Flipboard/FLEX)
 *   chisel：iOS app 的辅助调试工具，提供了一系列的 LLDB 命令。[官网](https://github.com/facebook/chisel)
-*   OCLint：静态代码分析工具，用以提高代码质量，减少瑕疵。[官网](http://oclint.org/)
+*   [OCLint](http://hao.jobbole.com/oclint/)：静态代码分析工具，用以提高代码质量，减少瑕疵。[官网](http://oclint.org/)
 *   ocstyle：Objective-C 代码风格检查器。[官网](https://github.com/Cue/ocstyle)
 *   SwiftLint：一个实验性的工具，用于强化 Swift 的代码风格和习惯。★[官网](https://github.com/realm/SwiftLint)
 *   [spacecommander](http://hao.jobbole.com/spacecommander/)：像一个团队那样，提交完全格式化的 Objective-C 代码。[官网](https://github.com/square/spacecommander)
