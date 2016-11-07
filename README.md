@@ -614,7 +614,7 @@ huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/m
 *   KZAsserts：一系列的自定义断言，使用 DSL 来自动生成 NSError，允许在 Debug 时断言和在 Release 时捕获错误。[官网](https://github.com/krzysztofzablocki/KZAsserts)
 *   PSPDFUIKitMainThreadGuard：简洁的代码片段，当 UIKit 在后台线程被使用时生成断言。[官网](https://gist.github.com/steipete/5664345)
 *   Flex：一个嵌入 iOS App 的调试和探索工具。[官网](https://github.com/Flipboard/FLEX)
-*   chisel：iOS app 的辅助调试工具，提供了一系列的 LLDB 命令。[官网](https://github.com/facebook/chisel)
+*   [chisel](http://hao.jobbole.com/chisel/)：iOS app 的辅助调试工具，提供了一系列的 LLDB 命令。[官网](https://github.com/facebook/chisel)
 *   [OCLint](http://hao.jobbole.com/oclint/)：静态代码分析工具，用以提高代码质量，减少瑕疵。[官网](http://oclint.org/)
 *   ocstyle：Objective-C 代码风格检查器。[官网](https://github.com/Cue/ocstyle)
 *   SwiftLint：一个实验性的工具，用于强化 Swift 的代码风格和习惯。★[官网](https://github.com/realm/SwiftLint)
