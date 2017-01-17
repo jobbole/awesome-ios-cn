@@ -603,6 +603,7 @@ huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/m
 *   EZAlertController：便捷的 Swift UIAlertController。★[官网](https://github.com/thellimist/EZAlertController)
 *   EZSwipeController：![](/images/pointer.png.png)类似 Snapchat/Tinder/iOS 主页的 UIPageViewController。★[官网](https://github.com/goktugyil/EZSwipeController)
 *   SWRevealViewController：受到 FaceBook 和 Wunderlist 应用启发的 UIViewController 子类，用于显示侧滑的视图控制器。[官网](https://github.com/John-Lluch/SWRevealViewController)
+*   WXWaveView：为视图添加丝滑的水波纹。[官网](https://github.com/WelkinXie/WXWaveView)
 
 ### <a name="websocket"></a>WebSocket
 
