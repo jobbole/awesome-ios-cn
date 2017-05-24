@@ -364,6 +364,7 @@ huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/m
 *   Nuke：高级的图片管理框架。★[官网](https://github.com/kean/Nuke)
 *   FlagKit：供 app 和 web 页面上使用的漂亮旗标。★[官网](https://github.com/madebybowtie/FlagKit)
 *   YYWebImage：异步图像加载框架（支持 WebP，APNG，GIF 格式）。[官网](https://github.com/ibireme/YYWebImage)
+*   EFQRCode：一个纯 Swift 开发的艺术二维码生成库。★[官网](https://github.com/EyreFree/EFQRCode)
 
 ##### <a name="video"></a>视频
 
