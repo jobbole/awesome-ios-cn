@@ -604,6 +604,7 @@ huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/m
 *   EZAlertController：便捷的 Swift UIAlertController。★[官网](https://github.com/thellimist/EZAlertController)
 *   EZSwipeController：![](/images/pointer.png.png)类似 Snapchat/Tinder/iOS 主页的 UIPageViewController。★[官网](https://github.com/goktugyil/EZSwipeController)
 *   SWRevealViewController：受到 FaceBook 和 Wunderlist 应用启发的 UIViewController 子类，用于显示侧滑的视图控制器。[官网](https://github.com/John-Lluch/SWRevealViewController)
+*   TaniwhaTextField：一个lightweight的Textfield动画效果，有浮动标签，颜色和大小还有线条都可以很高程度的自定义，支持storyboard。★[官网](https://github.com/iceman201/TaniwhaTextField)
 
 ### <a name="websocket"></a>WebSocket
 
