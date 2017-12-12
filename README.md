@@ -46,7 +46,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[ARIGATO](http://www.jobbole.com/members/lu123321shenzhen/)、[星满苍穹](http://www.jobbole.com/members/zhuimengren0807004/)、[天道](http://hao.jobbole.com/sound-fader-ios/)、[
+- 贡献者：[ARIGATO](https://github.com/ufolux)、[星满苍穹](http://www.jobbole.com/members/zhuimengren0807004/)、[天道](http://hao.jobbole.com/sound-fader-ios/)、[
 huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/members/liushivae)、[徐健](http://www.jobbole.com/members/Xcoderj/)、[西西里的仔仔](http://www.jobbole.com/members/1595331303/)、[朱亚光在push的日常](http://www.jobbole.com/members/2055497477/)、[zjszyms](https://github.com/zjszyms)、[patchthecode](https://github.com/patchthecode)、[KevinGong2013](https://github.com/KevinGong2013)、[张发白](http://www.jobbole.com/members/shuai265/)、[冰斌](http://www.jobbole.com/members/libing1209/)、[Juliesand](http://www.jobbole.com/members/juliesh/)、[张发白](http://hao.jobbole.com/hardcoredata/)、You
 
 注：名单不分排名，不定期补充更新
