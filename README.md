@@ -9,10 +9,10 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 我们要做什么？
 
 - 基于 awesome-ios 资源列表，我们将对各个资源项进行编译整理。
-- 整理后的内容，将收录在[伯乐在线资源频道](http://hao.jobbole.com/)。可参考已整理的内容：
-  - 《[BlockAlertsAnd-ActionSheets：一个支持block的弹出框](http://hao.jobbole.com/blockalertsand-actionsheets-ios/)》
-  - 《[MBProgressHUD：一个不错的进度提示工具](http://hao.jobbole.com/mbprogresshud-ios/)》
-  - 《[Wonderful：不仅仅是一个酷炫的颜色库](http://hao.jobbole.com/wonderful/)》
+- 整理后的内容，将收录在[伯乐在线资源频道](http://hao.importnew.com/)。可参考已整理的内容：
+  - 《[BlockAlertsAnd-ActionSheets：一个支持block的弹出框](http://hao.importnew.com/blockalertsand-actionsheets-ios/)》
+  - 《[MBProgressHUD：一个不错的进度提示工具](http://hao.importnew.com/mbprogresshud-ios/)》
+  - 《[Wonderful：不仅仅是一个酷炫的颜色库](http://hao.importnew.com/wonderful/)》
 
 * * *
 
@@ -46,8 +46,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[ARIGATO](https://github.com/ufolux)、[星满苍穹](http://www.jobbole.com/members/zhuimengren0807004/)、[天道](http://hao.jobbole.com/sound-fader-ios/)、[
-huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/members/liushivae)、[徐健](http://www.jobbole.com/members/Xcoderj/)、[西西里的仔仔](http://www.jobbole.com/members/1595331303/)、[朱亚光在push的日常](http://www.jobbole.com/members/2055497477/)、[zjszyms](https://github.com/zjszyms)、[patchthecode](https://github.com/patchthecode)、[KevinGong2013](https://github.com/KevinGong2013)、[张发白](http://www.jobbole.com/members/shuai265/)、[冰斌](http://www.jobbole.com/members/libing1209/)、[Juliesand](http://www.jobbole.com/members/juliesh/)、[张发白](http://hao.jobbole.com/hardcoredata/)、You
+- 贡献者：[ARIGATO](https://github.com/ufolux)、[星满苍穹](http://www.importnew.com/members/zhuimengren0807004/)、[天道](http://hao.importnew.com/sound-fader-ios/)、[
+huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.importnew.com/members/liushivae)、[徐健](http://www.importnew.com/members/Xcoderj/)、[西西里的仔仔](http://www.importnew.com/members/1595331303/)、[朱亚光在push的日常](http://www.importnew.com/members/2055497477/)、[zjszyms](https://github.com/zjszyms)、[patchthecode](https://github.com/patchthecode)、[KevinGong2013](https://github.com/KevinGong2013)、[张发白](http://www.importnew.com/members/shuai265/)、[冰斌](http://www.importnew.com/members/libing1209/)、[Juliesand](http://www.importnew.com/members/juliesh/)、[张发白](http://hao.importnew.com/hardcoredata/)、You
 
 注：名单不分排名，不定期补充更新
 
@@ -59,7 +59,7 @@ huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/m
 
 * 整理超过 20 个资源后，可在伯乐在线上开通打赏；
 * 每整理 20 个资源，有机会获得技术书籍或各种有意思的创意、极客产品；
-* [奖励详情](http://hao.jobbole.com/rewards/)
+* [奖励详情](http://hao.importnew.com/rewards/)
 
 * * * -->
 
@@ -151,73 +151,73 @@ huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/m
 
 ### <a name="audio"></a>音频
 
-*   [AudioBus](http://hao.jobbole.com/audiobu/)：下一代 App 到 App 的实时音频路由。[官网](https://developer.audiob.us/)
-*   [AudioKit](http://hao.jobbole.com/audiokit/)：一个强大的音频合成，处理和分析的工具集。[官网](https://github.com/audiokit/AudioKit)
-*   [EZAudio](http://hao.jobbole.com/ezaudio/)：一个基于 Core Audio 的 iOS/OSX 音频可视化框架。用于实时，低延迟的音频处理和可视化功能的开发。[官网](https://github.com/syedhali/EZAudio)
-*   [TheAmazingAudioEngine](http://hao.jobbole.com/theamazingaudioengine/)：是iOS音频处理框架，简单易用，能对音频进行处理。[官网](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine)
-*   [novocaine](http://hao.jobbole.com/novocaine/)：应用于 OSX 和 iOS 的高性能音频框架。[官网](https://github.com/alexbw/novocaine) 
-*   [QHSpeechSynthesizerQueue](http://hao.jobbole.com/qhspeechsynthesizerqueue/)：一个 `AVSpeechSynthesizer`（iOS文本发音） 的队列管理系统。[官网](https://github.com/quentinhayot/QHSpeechSynthesizerQueue)
-*   [StreamingKit](http://hao.jobbole.com/streamingkit/)：一个针对 OSX 和 iOS 中 `AudioPlayer/AudioStreamer` 快捷的无缝扩展。[官网](https://github.com/tumtumtum/StreamingKit)
-*   [sound-fader-ios](http://hao.jobbole.com/sound-fader-ios/)：一个 Swift 写的 `AVAudioPlayer` 的声音控制器 [官网](https://github.com/evgenyneu/sound-fader-ios)★
+*   [AudioBus](http://hao.importnew.com/audiobu/)：下一代 App 到 App 的实时音频路由。[官网](https://developer.audiob.us/)
+*   [AudioKit](http://hao.importnew.com/audiokit/)：一个强大的音频合成，处理和分析的工具集。[官网](https://github.com/audiokit/AudioKit)
+*   [EZAudio](http://hao.importnew.com/ezaudio/)：一个基于 Core Audio 的 iOS/OSX 音频可视化框架。用于实时，低延迟的音频处理和可视化功能的开发。[官网](https://github.com/syedhali/EZAudio)
+*   [TheAmazingAudioEngine](http://hao.importnew.com/theamazingaudioengine/)：是iOS音频处理框架，简单易用，能对音频进行处理。[官网](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine)
+*   [novocaine](http://hao.importnew.com/novocaine/)：应用于 OSX 和 iOS 的高性能音频框架。[官网](https://github.com/alexbw/novocaine) 
+*   [QHSpeechSynthesizerQueue](http://hao.importnew.com/qhspeechsynthesizerqueue/)：一个 `AVSpeechSynthesizer`（iOS文本发音） 的队列管理系统。[官网](https://github.com/quentinhayot/QHSpeechSynthesizerQueue)
+*   [StreamingKit](http://hao.importnew.com/streamingkit/)：一个针对 OSX 和 iOS 中 `AudioPlayer/AudioStreamer` 快捷的无缝扩展。[官网](https://github.com/tumtumtum/StreamingKit)
+*   [sound-fader-ios](http://hao.importnew.com/sound-fader-ios/)：一个 Swift 写的 `AVAudioPlayer` 的声音控制器 [官网](https://github.com/evgenyneu/sound-fader-ios)★
 
 ### 动画
 
-*   [Pop](http://hao.jobbole.com/pop/)：一个 iOS 和 OS X 动画库，可以方便地实现由物理效果的交互。[官网](https://github.com/facebook/pop) 
-*   [AnimationEngine](http://hao.jobbole.com/animationengine/)：可以在 iOS 上方便地构建高级自定义动画。[官网](https://github.com/intuit/AnimationEngine)
-*   [Awesome-iOS-Animation](http://hao.jobbole.com/awesome-ios-animation/)：一个动画项目的集合。[官网](https://github.com/jackyzh/awesome-ios-animation)
-*   [RZTransitions](http://hao.jobbole.com/rztransitions/)：iOS View Controller 过场动画库。[官网](https://github.com/Raizlabs/RZTransitions)
-*   [DCAnimationKit](http://hao.jobbole.com/dcanimationkit/)：iOS 动画集合。很简单，只需要添加流水动画。[官网](https://github.com/daltoniam/DCAnimationKit)
-*   [Spring](http://hao.jobbole.com/spring_ios/)：一个简单的 Swift iOS 动画库。[官网](https://github.com/MengTo/Spring)
-*   [Canvas](http://hao.jobbole.com/canvas/)：无需代码就可以在 Xcode 中显示动画 [http://canvaspod.io](http://canvaspod.io)。[官网](https://github.com/CanvasPod/Canvas)
-*   [Fluent](http://hao.jobbole.com/fluent/)：便捷的 Swift 动画框架。 ★[官网](https://github.com/matthewcheok/Fluent)
-*   [Cheetah](http://hao.jobbole.com/cheetah/)：便捷的 iOS 动画库，由 Swift2 编写。 ★[官网](https://github.com/suguru/Cheetah)
-*   [RadialLayer](http://hao.jobbole.com/radiallayer/)：针对可点击元素的动画（类似于 Youtube Music）★[官网](https://github.com/soheil/RadialLayer)
+*   [Pop](http://hao.importnew.com/pop/)：一个 iOS 和 OS X 动画库，可以方便地实现由物理效果的交互。[官网](https://github.com/facebook/pop) 
+*   [AnimationEngine](http://hao.importnew.com/animationengine/)：可以在 iOS 上方便地构建高级自定义动画。[官网](https://github.com/intuit/AnimationEngine)
+*   [Awesome-iOS-Animation](http://hao.importnew.com/awesome-ios-animation/)：一个动画项目的集合。[官网](https://github.com/jackyzh/awesome-ios-animation)
+*   [RZTransitions](http://hao.importnew.com/rztransitions/)：iOS View Controller 过场动画库。[官网](https://github.com/Raizlabs/RZTransitions)
+*   [DCAnimationKit](http://hao.importnew.com/dcanimationkit/)：iOS 动画集合。很简单，只需要添加流水动画。[官网](https://github.com/daltoniam/DCAnimationKit)
+*   [Spring](http://hao.importnew.com/spring_ios/)：一个简单的 Swift iOS 动画库。[官网](https://github.com/MengTo/Spring)
+*   [Canvas](http://hao.importnew.com/canvas/)：无需代码就可以在 Xcode 中显示动画 [http://canvaspod.io](http://canvaspod.io)。[官网](https://github.com/CanvasPod/Canvas)
+*   [Fluent](http://hao.importnew.com/fluent/)：便捷的 Swift 动画框架。 ★[官网](https://github.com/matthewcheok/Fluent)
+*   [Cheetah](http://hao.importnew.com/cheetah/)：便捷的 iOS 动画库，由 Swift2 编写。 ★[官网](https://github.com/suguru/Cheetah)
+*   [RadialLayer](http://hao.importnew.com/radiallayer/)：针对可点击元素的动画（类似于 Youtube Music）★[官网](https://github.com/soheil/RadialLayer)
 
 ### <a name="apple-tv"></a>Apple TV
 
-*   [Voucher](http://hao.jobbole.com/voucher/)：方便 tvOS App 通过 iOS 设备上相应的程序来认证的库。[官网](https://github.com/rsattar/Voucher)
+*   [Voucher](http://hao.importnew.com/voucher/)：方便 tvOS App 通过 iOS 设备上相应的程序来认证的库。[官网](https://github.com/rsattar/Voucher)
 
 ### <a name="bridging"></a>桥接
 
-*   [JSPatch](http://hao.jobbole.com/jspatch/)：JSPatch 利用 Objective-C 运行时桥接了 Objective-C 和 Javascript。你仅需引入一个小的引擎，就可以使用 JS 调用任何 Objective-C 的类。JSPatch 通常用来对 iOS App 做热修复（hotfix）。[官网](https://github.com/bang590/JSPatch)
+*   [JSPatch](http://hao.importnew.com/jspatch/)：JSPatch 利用 Objective-C 运行时桥接了 Objective-C 和 Javascript。你仅需引入一个小的引擎，就可以使用 JS 调用任何 Objective-C 的类。JSPatch 通常用来对 iOS App 做热修复（hotfix）。[官网](https://github.com/bang590/JSPatch)
 
 ### <a name="cache"></a>缓存
 
-*   [SDURLCache](http://hao.jobbole.com/sdurlcache/)：URLCache的子类，可以为 iPhone/iPad 应用提供的本地磁盘缓存。[官网](https://github.com/steipete/SDURLCache)
-*   [Awesome Cache](http://hao.jobbole.com/awesome-cache/)：让人喜爱的本地缓存 ★[官网](https://github.com/aschuch/AwesomeCache) 
-*   [mattress](http://hao.jobbole.com/mattress/)：iOS Web 内容的离线缓存 ★[官网](https://github.com/buzzfeed/mattress)
-*   [Carlos](http://hao.jobbole.com/carlos/)：简单但却灵活的缓存 ★[官网](https://github.com/WeltN24/Carlos) 
+*   [SDURLCache](http://hao.importnew.com/sdurlcache/)：URLCache的子类，可以为 iPhone/iPad 应用提供的本地磁盘缓存。[官网](https://github.com/steipete/SDURLCache)
+*   [Awesome Cache](http://hao.importnew.com/awesome-cache/)：让人喜爱的本地缓存 ★[官网](https://github.com/aschuch/AwesomeCache) 
+*   [mattress](http://hao.importnew.com/mattress/)：iOS Web 内容的离线缓存 ★[官网](https://github.com/buzzfeed/mattress)
+*   [Carlos](http://hao.importnew.com/carlos/)：简单但却灵活的缓存 ★[官网](https://github.com/WeltN24/Carlos) 
 
 ### <a name="charts"></a>图表
 
-*   [ios-charts](http://hao.jobbole.com/ios-charts/)：一个强大的图表框架，[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) 在 iOS 上的移植。★[官网](https://github.com/danielgindi/ios-charts)
-*   [JTChartView](http://hao.jobbole.com/jtchartview/)：JTChartView 是一个完全可定制的轻量级图表解决方案。[官网](https://github.com/kubatru/JTChartView)
-*   [PNChart](http://hao.jobbole.com/pnchart/)：一个简单漂亮的图表库，Pinner 和 CoinsMan 的iOS客户端中使用了这个框架。[官网](https://github.com/kevinzhow/PNChart)
-*   [BEMSimpleLineGraph](http://hao.jobbole.com/bemsimplelinegraph/)：优雅的折线图框架。[官网](https://github.com/Boris-Em/BEMSimpleLineGraph)
-*   [JBChartView](http://hao.jobbole.com/jbchartview/)：基于 iOS 的图表库，包含折线图和直方图。[官网](https://github.com/Jawbone/JBChartView)
-*   [XYPieChart](http://hao.jobbole.com/xypiechart/)：一个有动画的饼图框架。[官网](https://github.com/xyfeng/XYPieChart)
-*   [TEAChart](http://hao.jobbole.com/teachart/)：简单易用的 iOS 图表库。包括了贡献图、时钟图、直方图。[官网](https://github.com/xhacker/TEAChart)
-*   [EChart](http://hao.jobbole.com/ios-echart/)：iOS/iPhone/iPad 图表。提供了事件处理和动画支持。[官网](https://github.com/zhuhuihuihui/EChart)
-*   [FSLineChart](http://hao.jobbole.com/fslinechart/)：一个 iOS 折线图库。[官网](https://github.com/ArthurGuibert/FSLineChart)
+*   [ios-charts](http://hao.importnew.com/ios-charts/)：一个强大的图表框架，[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) 在 iOS 上的移植。★[官网](https://github.com/danielgindi/ios-charts)
+*   [JTChartView](http://hao.importnew.com/jtchartview/)：JTChartView 是一个完全可定制的轻量级图表解决方案。[官网](https://github.com/kubatru/JTChartView)
+*   [PNChart](http://hao.importnew.com/pnchart/)：一个简单漂亮的图表库，Pinner 和 CoinsMan 的iOS客户端中使用了这个框架。[官网](https://github.com/kevinzhow/PNChart)
+*   [BEMSimpleLineGraph](http://hao.importnew.com/bemsimplelinegraph/)：优雅的折线图框架。[官网](https://github.com/Boris-Em/BEMSimpleLineGraph)
+*   [JBChartView](http://hao.importnew.com/jbchartview/)：基于 iOS 的图表库，包含折线图和直方图。[官网](https://github.com/Jawbone/JBChartView)
+*   [XYPieChart](http://hao.importnew.com/xypiechart/)：一个有动画的饼图框架。[官网](https://github.com/xyfeng/XYPieChart)
+*   [TEAChart](http://hao.importnew.com/teachart/)：简单易用的 iOS 图表库。包括了贡献图、时钟图、直方图。[官网](https://github.com/xhacker/TEAChart)
+*   [EChart](http://hao.importnew.com/ios-echart/)：iOS/iPhone/iPad 图表。提供了事件处理和动画支持。[官网](https://github.com/zhuhuihuihui/EChart)
+*   [FSLineChart](http://hao.importnew.com/fslinechart/)：一个 iOS 折线图库。[官网](https://github.com/ArthurGuibert/FSLineChart)
 *   chartee：一个为移动平台设计的图表库。[官网](https://github.com/zhiyu/chartee)
-*   [ANDLineChartView](http://hao.jobbole.com/andlinechartview/)：使用 ANDLineChartView 可以便捷的在视图类中显示有动画效果的折线图。[官网](https://github.com/anaglik/ANDLineChartView)
-*   [TWRCharts](http://hao.jobbole.com/twrcharts/)：一个 ChartJS 的 iOS 封装。结合 Obj-C 原生代码便捷地构建有动画的图表。[官网](https://github.com/chasseurmic/TWRCharts)
+*   [ANDLineChartView](http://hao.importnew.com/andlinechartview/)：使用 ANDLineChartView 可以便捷的在视图类中显示有动画效果的折线图。[官网](https://github.com/anaglik/ANDLineChartView)
+*   [TWRCharts](http://hao.importnew.com/twrcharts/)：一个 ChartJS 的 iOS 封装。结合 Obj-C 原生代码便捷地构建有动画的图表。[官网](https://github.com/chasseurmic/TWRCharts)
 
 ### <a name="core-data"></a>Core Data
 
 *   CWCoreData：方便并发环境下 CoreData 框架开发的扩展与实用工具。[官网](https://github.com/jayway/CWCoreData)
-*   [ObjectiveRecord](http://hao.jobbole.com/objectiverecord/)：ActiveRecord 的 Objective-C 版本。[官网](https://github.com/supermarin/ObjectiveRecord)
-*   [SSDataKit](http://hao.jobbole.com/ssdatakit/)：消除使用 CoreData 产生的样板代码。[官网](https://github.com/soffes/SSDataKit)
+*   [ObjectiveRecord](http://hao.importnew.com/objectiverecord/)：ActiveRecord 的 Objective-C 版本。[官网](https://github.com/supermarin/ObjectiveRecord)
+*   [SSDataKit](http://hao.importnew.com/ssdatakit/)：消除使用 CoreData 产生的样板代码。[官网](https://github.com/soffes/SSDataKit)
 *   ios-queryable：ios-queryable 是一个基于 CoreData 的 IQueryable/IEnumerable 实现。[官网](https://github.com/martydill/ios-queryable)
 *   ReactiveCoreData：ReactiveCoreData (RCD) 是一个将 CoreData 带入 ReactiveCocoa 世界的尝试。[官网](https://github.com/apparentsoft/ReactiveCoreData)
-*   [Ensembles](http://hao.jobbole.com/ensembles/)：一个 CoreData 同步框架。[官网](https://github.com/drewmccormack/ensembles)
+*   [Ensembles](http://hao.importnew.com/ensembles/)：一个 CoreData 同步框架。[官网](https://github.com/drewmccormack/ensembles)
 *   SLRESTfulCoreData：根据 Objc 命名习惯，在运行时自动生成访问器，URL替换和智能属性映射。[官网](https://github.com/OliverLetterer/SLRESTfulCoreData)
 *   Mogenerator：自动生成 CoreData 代码。[官网](https://github.com/rentzsch/mogenerator)
-*   [HardCoreData](http://hao.jobbole.com/hardcoredata/)：不会阻塞 UI 线程的 CoreData 栈和控制器。[官网](https://github.com/Krivoblotsky/HardCoreData)
-*   [encrypted-core-data](http://hao.jobbole.com/encrypted-core-data/)：使用 SQLClipher 对 CoreData 的 SQLite 存储进行加密。[官网](https://github.com/project-imas/encrypted-core-data)
-*   [MagicalRecord](http://hao.jobbole.com/magicalrecord/)：非常优秀的 CoreData 便捷存取框架。[官网](https://github.com/magicalpanda/MagicalRecord)
+*   [HardCoreData](http://hao.importnew.com/hardcoredata/)：不会阻塞 UI 线程的 CoreData 栈和控制器。[官网](https://github.com/Krivoblotsky/HardCoreData)
+*   [encrypted-core-data](http://hao.importnew.com/encrypted-core-data/)：使用 SQLClipher 对 CoreData 的 SQLite 存储进行加密。[官网](https://github.com/project-imas/encrypted-core-data)
+*   [MagicalRecord](http://hao.importnew.com/magicalrecord/)：非常优秀的 CoreData 便捷存取框架。[官网](https://github.com/magicalpanda/MagicalRecord)
 *   QueryKit：一个简洁的类型安全的 CoreData 查询语言 ★[官网](https://github.com/QueryKit/QueryKit)
-*   [CoreStore](http://hao.jobbole.com/corestore/)：强大的 CoreData 框架，解决了增量迁移、获取、观察等问题。★[官网](https://github.com/JohnEstropia/CoreStore)
+*   [CoreStore](http://hao.importnew.com/corestore/)：强大的 CoreData 框架，解决了增量迁移、获取、观察等问题。★[官网](https://github.com/JohnEstropia/CoreStore)
 
 ### <a name="database"></a>数据库
 
@@ -238,30 +238,30 @@ huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/m
 
 ##### <a name="motion"></a>动作
 
-*   [MotionKit](http://hao.jobbole.com/motionkit/)：只需要两行或者很少的几行代码就可以从加速度传感器、陀螺仪和磁力传感器获取数据。现在 CoreMotion 让这些变得前所未有的简单。[官网](https://github.com/MHaroonBaig/MotionKit)
+*   [MotionKit](http://hao.importnew.com/motionkit/)：只需要两行或者很少的几行代码就可以从加速度传感器、陀螺仪和磁力传感器获取数据。现在 CoreMotion 让这些变得前所未有的简单。[官网](https://github.com/MHaroonBaig/MotionKit)
 
 #####  
 
 ##### <a name="bluetooth"></a>蓝牙
 
 *   Discovery：这是个很简单的库，用来从附近的设备上发现和获取数据（即便 peer app 在后台工作）。[官网](https://github.com/omergul123/Discovery)
-*   [LGBluetooth](http://hao.jobbole.com/lgbluetooth/)：基于 CoreBluetooth 的一个轻量级库，基于 block 制作。它能够让你程序中的 CoreBluetooth 相关的代码更加简洁。[官网](https://github.com/l0gg3r/LGBluetooth)
+*   [LGBluetooth](http://hao.importnew.com/lgbluetooth/)：基于 CoreBluetooth 的一个轻量级库，基于 block 制作。它能够让你程序中的 CoreBluetooth 相关的代码更加简洁。[官网](https://github.com/l0gg3r/LGBluetooth)
 *   PeerKit：一个用于事件驱动，零配置的 Multipeer 连接应用程序的开源 Swift 框架。★[官网](https://github.com/jpsim/PeerKit)
 *   simple-share：一个基于蓝牙 LE 共享的框架，易于实现附近设备的连接。[官网](https://github.com/lauraskelton/simple-share)
-*   [BluetoothKit](http://hao.jobbole.com/bluetoothkit/)：使用 BLE 在 iOS/OSX 设备之间通讯的框架★[官网](https://github.com/rasmusth/BluetoothKit)
+*   [BluetoothKit](http://hao.importnew.com/bluetoothkit/)：使用 BLE 在 iOS/OSX 设备之间通讯的框架★[官网](https://github.com/rasmusth/BluetoothKit)
 
 ##### <a name="location"></a>位置
 
-*   [IngeoSDK](http://hao.jobbole.com/ingeosdk/)：总是处于开启状态的 iOS 位置显示框架。[官网](https://github.com/IngeoSDK/ingeo-ios-sdk)
-*   [Proxitee](http://hao.jobbole.com/proxitee/)：允许开发者利用 iBeacons 和地理围栏创建近场感知的应用。[官网](https://github.com/Proxitee/iOS-SDK)
+*   [IngeoSDK](http://hao.importnew.com/ingeosdk/)：总是处于开启状态的 iOS 位置显示框架。[官网](https://github.com/IngeoSDK/ingeo-ios-sdk)
+*   [Proxitee](http://hao.importnew.com/proxitee/)：允许开发者利用 iBeacons 和地理围栏创建近场感知的应用。[官网](https://github.com/Proxitee/iOS-SDK)
 *   LocationManager：实现了一次性或者持续请求当前位置的功能，提供了基于 block 的异步 API。[官网](https://github.com/intuit/LocationManager)
-*   [LocationKit](http://hao.jobbole.com/locationkit/)：高级位置 SDK － 只使用很少的电量和上下文相关的位置信息就可以提供高精确度的位置数据。[官网](https://locationkit.io)
+*   [LocationKit](http://hao.importnew.com/locationkit/)：高级位置 SDK － 只使用很少的电量和上下文相关的位置信息就可以提供高精确度的位置数据。[官网](https://locationkit.io)
 
 ##### <a name="ibeacon"></a>iBeacon
 
 *   Proxitee：允许开发者利用 iBeacons 和地理围栏创建近场感知的应用。[官网](https://github.com/Proxitee/iOS-SDK)
-*   [OWUProximityManager](http://hao.jobbole.com/owuproximitymanager/)：一个方便的 iBeacon + CoreBluetooth 管理器。[官网](https://github.com/ohwutup/OWUProximityManager)
-*   [Vicinity](http://hao.jobbole.com/vicinity/)：复制邻近的 iBeacons （通过分析RSSI），并支持在后台广播和检测 BLE 设备。[官网](https://github.com/Instrument/Vicinity)
+*   [OWUProximityManager](http://hao.importnew.com/owuproximitymanager/)：一个方便的 iBeacon + CoreBluetooth 管理器。[官网](https://github.com/ohwutup/OWUProximityManager)
+*   [Vicinity](http://hao.importnew.com/vicinity/)：复制邻近的 iBeacons （通过分析RSSI），并支持在后台广播和检测 BLE 设备。[官网](https://github.com/Instrument/Vicinity)
 *   BeaconEmitter：把你的 Mac 变成一个 iBeacon。[官网](https://github.com/lgaches/BeaconEmitter)
 *   OWUProximityManager：iBeacons + CoreBluetooth.[官网](https://github.com/ohwutup/OWUProximityManager)
 
@@ -285,7 +285,7 @@ huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/m
 
 ### <a name="files"></a>文件
 
-*   [FileKit](http://hao.jobbole.com/filekit/)：Swift 实现的简单快捷的文件管理工具。★[官网](https://github.com/nvzqz/FileKit)
+*   [FileKit](http://hao.importnew.com/filekit/)：Swift 实现的简单快捷的文件管理工具。★[官网](https://github.com/nvzqz/FileKit)
 
 ###  
 
@@ -333,8 +333,8 @@ huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/m
 *   NAMapKit：允许你在 iPhone 应用使用自定义地图，并尝试模仿 Mapkit 框架的一些行为。[官网](https://github.com/neilang/NAMapKit)
 *   Mapbox GL：一个 iOS 上使用 OpenGL 渲染 Mapbox 矢量地图块的框架。[官网](https://github.com/mapbox/mapbox-gl-native)
 *   CMMapLauncher：用于 iOS 中在各种地图应用中显示方向的便捷框架。[官网](https://github.com/citymapper/CMMapLauncher)
-*   [百度地图iOS SDK](http://hao.jobbole.com/baidu_map_ios_sdk/)：一套功能丰富的地图开发工具包。[官网](http://lbsyun.baidu.com/index.php?title=iossdk)
-*   [百度鹰眼轨迹iOS SDK](http://hao.jobbole.com/baidu_yingyan_ios-sdk/)：一套能够进行绑路纠偏的轨迹开发工具包。[官网](http://lbsyun.baidu.com/index.php?title=ios-yingyan)
+*   [百度地图iOS SDK](http://hao.importnew.com/baidu_map_ios_sdk/)：一套功能丰富的地图开发工具包。[官网](http://lbsyun.baidu.com/index.php?title=iossdk)
+*   [百度鹰眼轨迹iOS SDK](http://hao.importnew.com/baidu_yingyan_ios-sdk/)：一套能够进行绑路纠偏的轨迹开发工具包。[官网](http://lbsyun.baidu.com/index.php?title=ios-yingyan)
 
 ### <a name="media"></a>媒体
 
@@ -615,11 +615,11 @@ huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/m
 *   KZAsserts：一系列的自定义断言，使用 DSL 来自动生成 NSError，允许在 Debug 时断言和在 Release 时捕获错误。[官网](https://github.com/krzysztofzablocki/KZAsserts)
 *   PSPDFUIKitMainThreadGuard：简洁的代码片段，当 UIKit 在后台线程被使用时生成断言。[官网](https://gist.github.com/steipete/5664345)
 *   Flex：一个嵌入 iOS App 的调试和探索工具。[官网](https://github.com/Flipboard/FLEX)
-*   [chisel](http://hao.jobbole.com/chisel/)：iOS app 的辅助调试工具，提供了一系列的 LLDB 命令。[官网](https://github.com/facebook/chisel)
-*   [OCLint](http://hao.jobbole.com/oclint/)：静态代码分析工具，用以提高代码质量，减少瑕疵。[官网](http://oclint.org/)
+*   [chisel](http://hao.importnew.com/chisel/)：iOS app 的辅助调试工具，提供了一系列的 LLDB 命令。[官网](https://github.com/facebook/chisel)
+*   [OCLint](http://hao.importnew.com/oclint/)：静态代码分析工具，用以提高代码质量，减少瑕疵。[官网](http://oclint.org/)
 *   ocstyle：Objective-C 代码风格检查器。[官网](https://github.com/Cue/ocstyle)
 *   SwiftLint：一个实验性的工具，用于强化 Swift 的代码风格和习惯。★[官网](https://github.com/realm/SwiftLint)
-*   [spacecommander](http://hao.jobbole.com/spacecommander/)：像一个团队那样，提交完全格式化的 Objective-C 代码。[官网](https://github.com/square/spacecommander)
+*   [spacecommander](http://hao.importnew.com/spacecommander/)：像一个团队那样，提交完全格式化的 Objective-C 代码。[官网](https://github.com/square/spacecommander)
 *   DWURecyclingAlert：优化 UITableViewCell 的滚动流畅性。[官网](https://github.com/diwu/DWURecyclingAlert)
 *   DCIntrospect：小型的 iOS 可视化调试工具库。[官网](https://github.com/domesticcatsoftware/DCIntrospect)
 *   Watchdog：一个用于记录阻塞主线程的过重任务的类。★[官网](https://github.com/wojteklu/Watchdog)
@@ -689,7 +689,7 @@ huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/m
 *   KZBootstrap：iOS 项目的 bootstrap，目的是高质量的编码。[官网](https://github.com/krzysztofzablocki/KZBootstrap)
 *   amaro：优秀的 iOS 样板。[官网](https://github.com/crushlovely/Amaro)
 *   chairs：交换你的 iOS 模拟器文档。[官网](https://github.com/orta/chairs)
-*   [Darling](http://hao.jobbole.com/darling/)：在 Linux 运行 OS X 二进制文件。[官网](http://www.darlinghq.org)、[GitHub](https://github.com/LubosD/darling)
+*   [Darling](http://hao.importnew.com/darling/)：在 Linux 运行 OS X 二进制文件。[官网](http://www.darlinghq.org)、[GitHub](https://github.com/LubosD/darling)
 
 # <a name="dependency--package-manager"></a>依赖 / 包管理
 
@@ -754,7 +754,7 @@ huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/m
 *   Retini：一个超级简单的 Retina（2x，3x）图片转换器。[官网](https://github.com/terwanerik/Retini)
 *   Provisioning：一个查看器插件，用于预览 .mobileprovision 文件。[官网](https://github.com/chockenberry/Provisioning)
 *   Strsync：自动翻译并且使 .strings 文件和默认语言同步。[官网](https://github.com/metasmile/strsync)
-*   [Laptop](http://hao.jobbole.com/laptop/)：一个让Mac OS X或Linux更智能的shell脚本。[官网](https://thoughtbot.com/open-source) [Github](https://github.com/thoughtbot/laptop)
+*   [Laptop](http://hao.importnew.com/laptop/)：一个让Mac OS X或Linux更智能的shell脚本。[官网](https://thoughtbot.com/open-source) [Github](https://github.com/thoughtbot/laptop)
 
 # <a name="rapid-development"></a>快速开发
 
@@ -884,7 +884,7 @@ huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/m
 
 <h3>中文站点</h3>
 
-* 伯乐在线 iOS 频道：分享 iOS 和 Swift 开发，应用设计和推广，iOS 相关的行业动态。[官网](http://ios.jobbole.com/)
+* 伯乐在线 iOS 频道：分享 iOS 和 Swift 开发，应用设计和推广，iOS 相关的行业动态。[官网](http://ios.importnew.com/)
 
 <h3>英文站点</h3>
 ### <a name="news-blogs-and-more"></a>新闻，播客和其他
