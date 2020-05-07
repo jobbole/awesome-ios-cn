@@ -47,7 +47,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
 - 贡献者：[ARIGATO](https://github.com/ufolux)、[星满苍穹](http://www.importnew.com/members/zhuimengren0807004/)、[天道](http://hao.importnew.com/sound-fader-ios/)、[
-huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.importnew.com/members/liushivae)、[徐健](http://www.importnew.com/members/Xcoderj/)、[西西里的仔仔](http://www.importnew.com/members/1595331303/)、[朱亚光在push的日常](http://www.importnew.com/members/2055497477/)、[zjszyms](https://github.com/zjszyms)、[patchthecode](https://github.com/patchthecode)、[KevinGong2013](https://github.com/KevinGong2013)、[张发白](http://www.importnew.com/members/shuai265/)、[冰斌](http://www.importnew.com/members/libing1209/)、[Juliesand](http://www.importnew.com/members/juliesh/)、[张发白](http://hao.importnew.com/hardcoredata/)、You
+huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.importnew.com/members/liushivae)、[徐健](http://www.importnew.com/members/Xcoderj/)、[西西里的仔仔](http://www.importnew.com/members/1595331303/)、[朱亚光在push的日常](http://www.importnew.com/members/2055497477/)、[zjszyms](https://github.com/zjszyms)、[patchthecode](https://github.com/patchthecode)、[KevinGong2013](https://github.com/KevinGong2013)、[张发白](http://www.importnew.com/members/shuai265/)、[冰斌](http://www.importnew.com/members/libing1209/)、[Juliesand](http://www.importnew.com/members/juliesh/)、[张发白](http://hao.importnew.com/hardcoredata/)、[yixiangboy](https://github.com/yixiangboy)
 
 注：名单不分排名，不定期补充更新
 
@@ -755,6 +755,7 @@ huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.importnew.com
 *   Provisioning：一个查看器插件，用于预览 .mobileprovision 文件。[官网](https://github.com/chockenberry/Provisioning)
 *   Strsync：自动翻译并且使 .strings 文件和默认语言同步。[官网](https://github.com/metasmile/strsync)
 *   [Laptop](http://hao.importnew.com/laptop/)：一个让Mac OS X或Linux更智能的shell脚本。[官网](https://thoughtbot.com/open-source) [Github](https://github.com/thoughtbot/laptop)
+*   DoraemonKit: 一款功能齐全的iOS研发助手，你值得拥有。[官网](https://www.dokit.cn/) [Github](https://github.com/didi/DoraemonKit)
 
 # <a name="rapid-development"></a>快速开发
 
