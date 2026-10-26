@@ -718,6 +718,7 @@ huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.importnew.com
 
 *   CrashMonkey：iOS 平台的 Monkey 测试工具。[官网](https://github.com/mokemokechicken/CrashMonkey)
 *   appium：Appium 是一个开源自动化测试框架。用于测试原生或者混合 app。[官网](http://appium.io/)
+*   agent-qa：支持 iOS、Android 和 Web 的 AI 自动化测试工具，结合持久记忆与经验证的自我改进复用测试经验，提供 CLI、MCP 和 Skills 接入。[官网](https://vostride.com)
 *   robotframework-appiumlibrary：AppiumLibrary 是一个用于 RobotFramwork 的 appium 测试框架。[官网](https://github.com/jollychang/robotframework-appiumlibrary)
 *   Cucumber：iOS BDD 框架。[官网](https://cucumber.io/)
 *   Kif：一个 iOS 的函数式测试框架。[官网](https://github.com/kif-framework/KIF)
